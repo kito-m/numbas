@@ -1,0 +1,750 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2026-03-28T11:58:43.862Z</time>
+  <bounds minlat="27.654333300" minlon="-83.292633300" maxlat="28.138500000" maxlon="-82.590633333"/>
+  <wpt lat="28.015833300" lon="-82.895000000">
+    <ele>0.000</ele>
+    <name>Clearwater Reef - Center Location &amp; Barge</name>
+    <cmt>Center location &amp; barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 00.950' N &lt;br&gt;Long 082º 53.700' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.01583, -82.895&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt;27-29ft</cmt>
+    <desc>Center location &amp; barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 00.950' N &lt;br&gt;Long 082º 53.700' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.01583, -82.895&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt;27-29ft</desc>
+  </wpt>
+  <wpt lat="28.016050000" lon="-82.893700000">
+    <ele>0.000</ele>
+    <name>Clearwater Reef - Pile 1</name>
+    <cmt>Concrete culvert pile #1 &amp; J site&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt; Decimal Minutes: &lt;br&gt;Lat 28º 00.963' N &lt;br&gt;Long 082º 53.622' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.01605, -82.8937&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;27-29 feet</cmt>
+    <desc>Concrete culvert pile #1 &amp; J site&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt; Decimal Minutes: &lt;br&gt;Lat 28º 00.963' N &lt;br&gt;Long 082º 53.622' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.01605, -82.8937&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;27-29 feet</desc>
+  </wpt>
+  <wpt lat="28.014283333" lon="-82.892766667">
+    <ele>0.000</ele>
+    <name>Clearwater Reef - Pile 2</name>
+    <cmt>Concrete culvert pile #2&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 00.857' N &lt;br&gt;Long 082º 53.566' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.01428, -82.89276&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;27-29 feet</cmt>
+    <desc>Concrete culvert pile #2&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 00.857' N &lt;br&gt;Long 082º 53.566' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.01428, -82.89276&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;27-29 feet</desc>
+  </wpt>
+  <wpt lat="28.014133333" lon="-82.892466667">
+    <ele>0.000</ele>
+    <name>Clearwater Reef - Pile 3</name>
+    <cmt>Concrete culvert pile #3&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 28º 00.848' N &lt;br&gt;Long 082º 53.548' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.01413, -82.89246&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;27-29 feet</cmt>
+    <desc>Concrete culvert pile #3&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 28º 00.848' N &lt;br&gt;Long 082º 53.548' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.01413, -82.89246&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;27-29 feet</desc>
+  </wpt>
+  <wpt lat="28.013000000" lon="-82.890266667">
+    <ele>0.000</ele>
+    <name>Clearwater Reef - Pile 4</name>
+    <cmt>Concrete culvert pile #4&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 00.780' N &lt;br&gt;Long 082º 53.416' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.013, -82.89026&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;27-29 feet</cmt>
+    <desc>Concrete culvert pile #4&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 00.780' N &lt;br&gt;Long 082º 53.416' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.013, -82.89026&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;27-29 feet</desc>
+  </wpt>
+  <wpt lat="28.053333300" lon="-82.909166700">
+    <ele>0.000</ele>
+    <name>Dunedin Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 03.200' N &lt;br&gt;Long 082º 54.550' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.05333, -82.90916&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt;25-30ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 03.200' N &lt;br&gt;Long 082º 54.550' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.05333, -82.90916&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt;25-30ft</desc>
+  </wpt>
+  <wpt lat="28.055666667" lon="-82.909316667">
+    <ele>0.000</ele>
+    <name>Dunedin Reef - High Profile Structures</name>
+    <cmt>High profile structures &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28° 03.340' N &lt;br&gt;Long 082° 54.559' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05566, -82.90931&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;25-30 feet</cmt>
+    <desc>High profile structures &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28° 03.340' N &lt;br&gt;Long 082° 54.559' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05566, -82.90931&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;25-30 feet</desc>
+  </wpt>
+  <wpt lat="28.050733300" lon="-82.909166700">
+    <ele>0.000</ele>
+    <name>Dunedin Reef - Pyramid Structures</name>
+    <cmt>Pyramid structures &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 03.044' N &lt;br&gt;Long 082º 54.550' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.05073, -82.90916&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;25-30 feet</cmt>
+    <desc>Pyramid structures &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 03.044' N &lt;br&gt;Long 082º 54.550' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.05073, -82.90916&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;25-30 feet</desc>
+  </wpt>
+  <wpt lat="27.861516700" lon="-83.030283300">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - Center Location</name>
+    <cmt>Center location&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.691' N &lt;br&gt;Long 083º 01.817' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86151, -83.03028&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46ft</cmt>
+    <desc>Center location&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.691' N &lt;br&gt;Long 083º 01.817' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86151, -83.03028&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46ft</desc>
+  </wpt>
+  <wpt lat="27.862900000" lon="-83.028900000">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - Bridge Material</name>
+    <cmt>Concrete bridge material from Clearwater Memorial Bridge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.774' N &lt;br&gt;Long 083º 01.734' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.8629, -83.02889&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</cmt>
+    <desc>Concrete bridge material from Clearwater Memorial Bridge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.774' N &lt;br&gt;Long 083º 01.734' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.8629, -83.02889&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</desc>
+  </wpt>
+  <wpt lat="27.861666700" lon="-83.031000000">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - Concrete Material 1</name>
+    <cmt>Concrete material 1&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.700' N &lt;br&gt;Long 083º 01.860' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86166, -83.03099&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</cmt>
+    <desc>Concrete material 1&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.700' N &lt;br&gt;Long 083º 01.860' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86166, -83.03099&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</desc>
+  </wpt>
+  <wpt lat="27.863283300" lon="-83.031716700">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - Concrete Material 2</name>
+    <cmt>Concrete material 2&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.797' N &lt;br&gt;Long 083º 01.903' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86328, -83.03171&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</cmt>
+    <desc>Concrete material 2&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.797' N &lt;br&gt;Long 083º 01.903' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86328, -83.03171&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</desc>
+  </wpt>
+  <wpt lat="27.860650000" lon="-83.029366700">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - Center Reef Balls</name>
+    <cmt>Center reef balls &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.639' N &lt;br&gt;Long 083º 01.762' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86065, -83.02936&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</cmt>
+    <desc>Center reef balls &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.639' N &lt;br&gt;Long 083º 01.762' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86065, -83.02936&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</desc>
+  </wpt>
+  <wpt lat="27.861016700" lon="-83.030550000">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - NW Reef Balls</name>
+    <cmt>NW reef balls &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.661' N &lt;br&gt;Long 083º 01.833' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.86101, -83.03055&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</cmt>
+    <desc>NW reef balls &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.661' N &lt;br&gt;Long 083º 01.833' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.86101, -83.03055&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</desc>
+  </wpt>
+  <wpt lat="27.861116700" lon="-83.028666700">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - NE Reef Balls</name>
+    <cmt>NE reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.667' N &lt;br&gt;Long 083º 01.720' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.86111, -83.02866&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</cmt>
+    <desc>NE reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.667' N &lt;br&gt;Long 083º 01.720' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.86111, -83.02866&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46 feet</desc>
+  </wpt>
+  <wpt lat="27.859866700" lon="-83.030300000">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - SW Reef Balls</name>
+    <cmt>SW reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.592' N&lt;br&gt;Long 083º 01.818' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.85986, -83.0303&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46ft</cmt>
+    <desc>SW reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.592' N&lt;br&gt;Long 083º 01.818' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.85986, -83.0303&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46ft</desc>
+  </wpt>
+  <wpt lat="27.859950000" lon="-83.028950000">
+    <ele>0.000</ele>
+    <name>Indian Shores Reef - SE Reef Balls</name>
+    <cmt>SE reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.597' N&lt;br&gt;Long 083º 01.737' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.85995, -83.02894&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46ft</cmt>
+    <desc>SE reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.597' N&lt;br&gt;Long 083º 01.737' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.85995, -83.02894&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;44-46ft</desc>
+  </wpt>
+  <wpt lat="27.771666700" lon="-82.915000000">
+    <ele>0.000</ele>
+    <name>Madeira Beach Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 46.300' N &lt;br&gt;Long 082º 54.900' W&lt;br&gt;&lt;br&gt;Decimal Degrees: 27.77166, -82.915&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;30-33ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 46.300' N &lt;br&gt;Long 082º 54.900' W&lt;br&gt;&lt;br&gt;Decimal Degrees: 27.77166, -82.915&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;30-33ft</desc>
+  </wpt>
+  <wpt lat="27.773500000" lon="-82.916166667">
+    <ele>0.000</ele>
+    <name>Madeira Beach Reef - High Profile Site</name>
+    <cmt>High profile site&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 46.410' N&lt;br&gt;Long 082° 54.970' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.7735, -82.91616&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;30-33ft</cmt>
+    <desc>High profile site&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 46.410' N&lt;br&gt;Long 082° 54.970' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.7735, -82.91616&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;30-33ft</desc>
+  </wpt>
+  <wpt lat="27.771500000" lon="-82.916300000">
+    <ele>0.000</ele>
+    <name>Madeira Beach Reef - Cutoff and Slabs</name>
+    <cmt>Concrete cut-off and slabs&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27° 46.290' N &lt;br&gt;Long 082° 54.978' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.7715, -82.9163&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 30-33ft</cmt>
+    <desc>Concrete cut-off and slabs&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27° 46.290' N &lt;br&gt;Long 082° 54.978' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.7715, -82.9163&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 30-33ft</desc>
+  </wpt>
+  <wpt lat="27.876633300" lon="-83.186066700">
+    <ele>0.000</ele>
+    <name>Pinellas #2 Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:   &lt;br&gt;Lat 27º 52.598' N&lt;br&gt;Long 083º 11.164' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.87663, -83.18606&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;80ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:   &lt;br&gt;Lat 27º 52.598' N&lt;br&gt;Long 083º 11.164' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.87663, -83.18606&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;80ft</desc>
+  </wpt>
+  <wpt lat="27.875000000" lon="-83.190000000">
+    <ele>0.000</ele>
+    <name>Pinellas #2 Reef - USCG Cutter &quot;Blackthorn&quot;</name>
+    <cmt>USCG Cutter &quot;Blackthorn&quot;&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.500' N&lt;br&gt;Long 083º 11.400' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.875, -83.19&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;80ft</cmt>
+    <desc>USCG Cutter &quot;Blackthorn&quot;&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.500' N&lt;br&gt;Long 083º 11.400' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.875, -83.19&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;80ft</desc>
+  </wpt>
+  <wpt lat="27.876300000" lon="-83.185833300">
+    <ele>0.000</ele>
+    <name>Pinellas #2 Reef - Tug Boat &quot;Sheridan&quot;</name>
+    <cmt>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mGJs0eNe8RFrhDl_oPhjxPnznfhYVsQ3JWY1AwMel4sZk3hiFdJWf1JNCHqR8SyM3Dyn34j0jod2IMTLMYDRrQjlKyYAJ9cnR-AnibtXZLvctgJjGosIi4vSeGbVE4nEpQkv5o3l2q3Cc1I2BWnkvMmc6VpWxnp5bzLWmFV-aE08-g-ZbzwY1L-zS8oRA20VggdqIwuUUqxzCUhVMifvv5Km5sDTB6anEZTzDkPUWkUyNsPEPUNqHW8I?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Tug boat &quot;Sheridan&quot;&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.578' N&lt;br&gt;Long 083º 11.150' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.8763, -83.18583&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 80ft&lt;br&gt;&lt;br&gt;Photos courtesy of Pinellas County Government Flickr webpage: https://pinellas.gov/artificial-reef-photos-and-videos/&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6HfVdLnfCbCtPeYJ0zpnKT-iPAPsqPoz0XsRxgNtNeuo5Rfkd1fNDz0R2Mzau_hW2CZGzcogcJoCGfbqtPjFp5bCWgjl6koAv_oIp6P3UFSHMBZd2MQz3uBjyvGY_DtOjMzStbZl3z542iknEdTcDxdbkhoIrvtLYy1toUiNf09k-IL-wgYUPYtiTXi8MildVrA24-KUQ0mr6nyvcd2F3pNVQbPnO-gaVW8HPHwlxaE4GFWz1VJnZHEDg?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X64i5lPu_rAdi7gm8riBFui2dCJ-Qopw8hO7dmXHeauVrHOF5YlRJqMl_XyCDSYtx4rluDAusVP8sCVUMU-6DuQJtfGEiYOsiGio9Plk8Y4TMjo__tN04yTufmGuee8XjxJW3vS5--k9VxU3fNRVKVfXy2cCuCdG8GVOy3pHZR_Q6fMHjzleG0HherjkiEdru_ubkE6mMP8muUVJfTLTH8oH6v5s6jTGpLzYpebzY-1lHB_oVIZHNtbWfU?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6__TOyVBg7aXiYZRRQWeEe-_5LsGg3-ihms5eNsNsln8MV0RJesfK26uxJ7InpeG5foiMN5olFqYz0MaUrvTPcF2Rl09Ic6kkJbR3urzKyOD752vw1ncrH0ysGq6Bx3oyc_McU85Eiq7uAF7-rPz4GXkNxk3u4TWMeX58i9PA-ttZoxHtmoIHBITX038sDms-Pv-dG-HSDkTYc9-togglL6HIiQAYekXJiO9E9n7BDxakEkTzk1HFRHiM?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5bjm9jX7b5n_dnnGzgtatxWtWrjOQ6jdF1M85WVA6LAvwyFBUNf-TUlUtoNL4IutjXa95N7xAv1JT7wPGuTnFd246BjgWErxB22L0Ktgiav7RRg_y4O0LqOTu-CQ4RyK0IHT2pTMS0otgoGBRM7vVWxvjgJsWTNcqVgXb38921QMb1uohz2h-ch4DvBFtvLAMHbAFOThWgMKB6Vy4O-jvOemuavmOw0ApaAw4X8PGAx7ylZoc7k8Pt3OE?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4084yHk_VM4CBI7XaLjey_Y7FkLApbgwmQIf8BwsXdZ2Dy4efhhU1s867cpz1DlLBYNwu6p6yK3TIBxS8KmAd9JKrWxifbMbntYATjf_2lQSgv2fiQd-JTXFXMZKX4byq8dwpescP6eg5pobxb-UDY-Uj0ZRIsY-FlnsOKaZp9U5f6FIPY8zHPGoIlQctLazpCH2oxqG223mO3G_zXXncgA9bG44-V7cl2rynEcdvD4dnAuH5GpNVMvhw?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mGJs0eNe8RFrhDl_oPhjxPnznfhYVsQ3JWY1AwMel4sZk3hiFdJWf1JNCHqR8SyM3Dyn34j0jod2IMTLMYDRrQjlKyYAJ9cnR-AnibtXZLvctgJjGosIi4vSeGbVE4nEpQkv5o3l2q3Cc1I2BWnkvMmc6VpWxnp5bzLWmFV-aE08-g-ZbzwY1L-zS8oRA20VggdqIwuUUqxzCUhVMifvv5Km5sDTB6anEZTzDkPUWkUyNsPEPUNqHW8I?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;Tug boat &quot;Sheridan&quot;&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.578' N&lt;br&gt;Long 083º 11.150' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.8763, -83.18583&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 80ft&lt;br&gt;&lt;br&gt;Photos courtesy of Pinellas County Government Flickr webpage: https://pinellas.gov/artificial-reef-photos-and-videos/&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6HfVdLnfCbCtPeYJ0zpnKT-iPAPsqPoz0XsRxgNtNeuo5Rfkd1fNDz0R2Mzau_hW2CZGzcogcJoCGfbqtPjFp5bCWgjl6koAv_oIp6P3UFSHMBZd2MQz3uBjyvGY_DtOjMzStbZl3z542iknEdTcDxdbkhoIrvtLYy1toUiNf09k-IL-wgYUPYtiTXi8MildVrA24-KUQ0mr6nyvcd2F3pNVQbPnO-gaVW8HPHwlxaE4GFWz1VJnZHEDg?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X64i5lPu_rAdi7gm8riBFui2dCJ-Qopw8hO7dmXHeauVrHOF5YlRJqMl_XyCDSYtx4rluDAusVP8sCVUMU-6DuQJtfGEiYOsiGio9Plk8Y4TMjo__tN04yTufmGuee8XjxJW3vS5--k9VxU3fNRVKVfXy2cCuCdG8GVOy3pHZR_Q6fMHjzleG0HherjkiEdru_ubkE6mMP8muUVJfTLTH8oH6v5s6jTGpLzYpebzY-1lHB_oVIZHNtbWfU?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6__TOyVBg7aXiYZRRQWeEe-_5LsGg3-ihms5eNsNsln8MV0RJesfK26uxJ7InpeG5foiMN5olFqYz0MaUrvTPcF2Rl09Ic6kkJbR3urzKyOD752vw1ncrH0ysGq6Bx3oyc_McU85Eiq7uAF7-rPz4GXkNxk3u4TWMeX58i9PA-ttZoxHtmoIHBITX038sDms-Pv-dG-HSDkTYc9-togglL6HIiQAYekXJiO9E9n7BDxakEkTzk1HFRHiM?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5bjm9jX7b5n_dnnGzgtatxWtWrjOQ6jdF1M85WVA6LAvwyFBUNf-TUlUtoNL4IutjXa95N7xAv1JT7wPGuTnFd246BjgWErxB22L0Ktgiav7RRg_y4O0LqOTu-CQ4RyK0IHT2pTMS0otgoGBRM7vVWxvjgJsWTNcqVgXb38921QMb1uohz2h-ch4DvBFtvLAMHbAFOThWgMKB6Vy4O-jvOemuavmOw0ApaAw4X8PGAx7ylZoc7k8Pt3OE?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4084yHk_VM4CBI7XaLjey_Y7FkLApbgwmQIf8BwsXdZ2Dy4efhhU1s867cpz1DlLBYNwu6p6yK3TIBxS8KmAd9JKrWxifbMbntYATjf_2lQSgv2fiQd-JTXFXMZKX4byq8dwpescP6eg5pobxb-UDY-Uj0ZRIsY-FlnsOKaZp9U5f6FIPY8zHPGoIlQctLazpCH2oxqG223mO3G_zXXncgA9bG44-V7cl2rynEcdvD4dnAuH5GpNVMvhw?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
+  <wpt lat="27.876800000" lon="-83.188500000">
+    <ele>0.000</ele>
+    <name>Pinellas #2 Reef - Steel Barge</name>
+    <cmt>Steel barge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.608' N&lt;br&gt;Long 083º 11.310' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.8768, -83.18849&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;80ft</cmt>
+    <desc>Steel barge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.608' N&lt;br&gt;Long 083º 11.310' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.8768, -83.18849&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;80ft</desc>
+  </wpt>
+  <wpt lat="27.877333300" lon="-83.187666700">
+    <ele>0.000</ele>
+    <name>Pinellas #2 Reef - Concrete Culverts</name>
+    <cmt>Concrete culverts&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.640' N&lt;br&gt;Long 083º 11.260' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.87733, -83.18766&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;80ft</cmt>
+    <desc>Concrete culverts&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.640' N&lt;br&gt;Long 083º 11.260' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.87733, -83.18766&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;80ft</desc>
+  </wpt>
+  <wpt lat="27.932066700" lon="-83.023383300">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt; &lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.924' N&lt;br&gt;Long 083º 01.403' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.93206, -83.02338&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt; &lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.924' N&lt;br&gt;Long 083º 01.403' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.93206, -83.02338&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.920233300" lon="-83.024916700">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Concrete Bridge Material</name>
+    <cmt>Concrete bridge material from John's Pass Bridge &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.214' N&lt;br&gt;Long 083º 01.495' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.92023, -83.02491&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Concrete bridge material from John's Pass Bridge &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.214' N&lt;br&gt;Long 083º 01.495' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.92023, -83.02491&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.935750000" lon="-83.022533300">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Barge</name>
+    <cmt>Barge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 56.145' N&lt;br&gt;Long 083º 01.352' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.93575, -83.02253&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Barge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 56.145' N&lt;br&gt;Long 083º 01.352' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.93575, -83.02253&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.926583300" lon="-83.023033300">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Concrete Culvert</name>
+    <cmt>Concrete culvert&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.595' N&lt;br&gt;Long 083º 01.382' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.92658, -83.02303&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Concrete culvert&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.595' N&lt;br&gt;Long 083º 01.382' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.92658, -83.02303&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.920283300" lon="-83.025583300">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Florida Power Poles</name>
+    <cmt>Florida power poles&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.217' N&lt;br&gt;Long 083º 01.535' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.92028, -83.02558&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Florida power poles&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.217' N&lt;br&gt;Long 083º 01.535' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.92028, -83.02558&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.932250000" lon="-83.023616700">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Steel Barge &amp; Concrete A</name>
+    <cmt>Steel barge and concrete (A)&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.935' N&lt;br&gt;Long 083º 01.417' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.93225, -83.02361&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Steel barge and concrete (A)&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.935' N&lt;br&gt;Long 083º 01.417' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.93225, -83.02361&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.930566700" lon="-83.024616700">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Concrete Culvert B</name>
+    <cmt>Concrete culvert (B)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 55.834' N&lt;br&gt;Long 083º 01.477' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.93056, -83.02461&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Concrete culvert (B)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 55.834' N&lt;br&gt;Long 083º 01.477' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.93056, -83.02461&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.930900000" lon="-83.021950000">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Concrete Culvert, Slabs, &amp; Power Poles C</name>
+    <cmt>Concrete culvert, slabs, and power poles (C)&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.854' N&lt;br&gt;Long 083º 01.317' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.9309, -83.02195&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Concrete culvert, slabs, and power poles (C)&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 55.854' N&lt;br&gt;Long 083º 01.317' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.9309, -83.02195&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.933683300" lon="-83.025233300">
+    <ele>0.000</ele>
+    <name>Rube Allyn Reef - Concrete Culvert, Slabs, &amp; Power Poles D</name>
+    <cmt>Concrete culvert, slabs, and power poles (D)&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 56.021' N&lt;br&gt;Long 083º 01.514' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.93368, -83.02523&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</cmt>
+    <desc>Concrete culvert, slabs, and power poles (D)&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 56.021' N&lt;br&gt;Long 083º 01.514' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.93368, -83.02523&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;50ft</desc>
+  </wpt>
+  <wpt lat="27.722916700" lon="-82.975000000">
+    <ele>0.000</ele>
+    <name>South County Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 43.375' N&lt;br&gt;Long 082º 58.500' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72291, -82.97499&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 43.375' N&lt;br&gt;Long 082º 58.500' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72291, -82.97499&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</desc>
+  </wpt>
+  <wpt lat="27.722716700" lon="-82.976400000">
+    <ele>0.000</ele>
+    <name>South County Reef - 75' Steel Barge</name>
+    <cmt>75-foot steel barge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27º 43.363' N&lt;br&gt;Long 082º 58.584' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72271, -82.9764&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</cmt>
+    <desc>75-foot steel barge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27º 43.363' N&lt;br&gt;Long 082º 58.584' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72271, -82.9764&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</desc>
+  </wpt>
+  <wpt lat="27.722550000" lon="-82.976400000">
+    <ele>0.000</ele>
+    <name>South County Reef - 110' Steel Barge</name>
+    <cmt>110-foot steel barge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27º 43.353' N&lt;br&gt;Long 082º 58.584' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.72255, -82.9764&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 45ft</cmt>
+    <desc>110-foot steel barge&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27º 43.353' N&lt;br&gt;Long 082º 58.584' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.72255, -82.9764&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 45ft</desc>
+  </wpt>
+  <wpt lat="27.723133300" lon="-82.977033300">
+    <ele>0.000</ele>
+    <name>South County Reef - 116' Steel Barge</name>
+    <cmt>116-foot steel barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 43.388' N&lt;br&gt;Long 082º 58.622' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.72313, -82.97703&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</cmt>
+    <desc>116-foot steel barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 43.388' N&lt;br&gt;Long 082º 58.622' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.72313, -82.97703&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</desc>
+  </wpt>
+  <wpt lat="27.722916700" lon="-82.974166700">
+    <ele>0.000</ele>
+    <name>South County Reef - Tug Boat &quot;Orange&quot;</name>
+    <cmt>Tug boat &quot;orange&quot;&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 43.375' N&lt;br&gt;Long 082º 58.450' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72291, -82.97416&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 45ft</cmt>
+    <desc>Tug boat &quot;orange&quot;&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 43.375' N&lt;br&gt;Long 082º 58.450' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72291, -82.97416&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 45ft</desc>
+  </wpt>
+  <wpt lat="27.724833300" lon="-82.976433300">
+    <ele>0.000</ele>
+    <name>South County Reef - Concrete Material Pile 1</name>
+    <cmt>Concrete material pile (1)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 43.490' N&lt;br&gt;Long 082º 58.586' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72483, -82.97643&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</cmt>
+    <desc>Concrete material pile (1)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 43.490' N&lt;br&gt;Long 082º 58.586' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72483, -82.97643&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</desc>
+  </wpt>
+  <wpt lat="27.723000000" lon="-82.975616700">
+    <ele>0.000</ele>
+    <name>South County Reef - Concrete Material Pile 2</name>
+    <cmt>Concrete material pile (2)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 43.380' N&lt;br&gt;Long 082º 58.537' W&lt;br&gt;&lt;br&gt;Decimal Degrees:  &lt;br&gt;27.723, -82.97561         &lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</cmt>
+    <desc>Concrete material pile (2)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 43.380' N&lt;br&gt;Long 082º 58.537' W&lt;br&gt;&lt;br&gt;Decimal Degrees:  &lt;br&gt;27.723, -82.97561         &lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</desc>
+  </wpt>
+  <wpt lat="27.724283333" lon="-82.973633333">
+    <ele>0.000</ele>
+    <name>South County Reef - Bridge Site</name>
+    <cmt>Bridge site&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 43.457' N&lt;br&gt;Long 082° 58.418' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72428, -82.97363&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</cmt>
+    <desc>Bridge site&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 43.457' N&lt;br&gt;Long 082° 58.418' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.72428, -82.97363&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</desc>
+  </wpt>
+  <wpt lat="27.721450000" lon="-82.975216667">
+    <ele>0.000</ele>
+    <name>South County Reef - Bridgeway Bridge Site</name>
+    <cmt>Bridgeway bridge site &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 43.287' N&lt;br&gt;Long 082° 58.513' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.72145, -82.97521&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</cmt>
+    <desc>Bridgeway bridge site &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 43.287' N&lt;br&gt;Long 082° 58.513' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.72145, -82.97521&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;45ft</desc>
+  </wpt>
+  <wpt lat="27.676666700" lon="-82.862500000">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.600' N&lt;br&gt;Long 082º 51.750' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67666, -82.8625&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.600' N&lt;br&gt;Long 082º 51.750' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67666, -82.8625&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.679166700" lon="-82.862783300">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - Concrete Bridge Material</name>
+    <cmt>Concrete bridge material&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.750' N&lt;br&gt;Long 082º 51.767' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.67916, -82.86278&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>Concrete bridge material&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.750' N&lt;br&gt;Long 082º 51.767' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.67916, -82.86278&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.676666700" lon="-82.862350000">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - 200' Steel Deck Barge</name>
+    <cmt>200-foot steel deck barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.600' N&lt;br&gt;Long 082º 51.741' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67666, -82.86235&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>200-foot steel deck barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.600' N&lt;br&gt;Long 082º 51.741' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67666, -82.86235&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678666700" lon="-82.863666700">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #1 U.S. Army Tank</name>
+    <cmt>#1 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.720' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.67866, -82.86366&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>#1 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.720' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.67866, -82.86366&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678833300" lon="-82.863833300">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #2 U.S. Army Tank</name>
+    <cmt># 2 U.S .Army Tank&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.730' N&lt;br&gt;Long 082º 51.830' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67883, -82.86383&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc># 2 U.S .Army Tank&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.730' N&lt;br&gt;Long 082º 51.830' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67883, -82.86383&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678666700" lon="-82.863833300">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #3 U.S. Army Tank</name>
+    <cmt>#3 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.720' N&lt;br&gt;Long 082º 51.830' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67866, -82.86383&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>#3 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.720' N&lt;br&gt;Long 082º 51.830' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67866, -82.86383&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678500000" lon="-82.863666700">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #4 U.S. Army Tank</name>
+    <cmt>#4 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 40.710' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.6785, -82.86366&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>#4 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 40.710' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.6785, -82.86366&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678166700" lon="-82.863500000">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #5 U.S. Army Tank</name>
+    <cmt>#5 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.690' N&lt;br&gt;Long 082º 51.810' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67816, -82.8635&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>#5 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.690' N&lt;br&gt;Long 082º 51.810' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67816, -82.8635&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678166700" lon="-82.863666700">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #6 U.S. Army Tank</name>
+    <cmt>#6 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.690' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67816, -82.86366&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>#6 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.690' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67816, -82.86366&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678500000" lon="-82.863666700">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #7 U.S. Army Tank</name>
+    <cmt>#7 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.710' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.6785, -82.86366&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>#7 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.710' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.6785, -82.86366&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678666700" lon="-82.863666700">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #8 U.S. Army Tank</name>
+    <cmt>#8 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.720' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67866, -82.86366&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 34-36ft</cmt>
+    <desc>#8 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.720' N&lt;br&gt;Long 082º 51.820' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.67866, -82.86366&lt;br&gt;&lt;br&gt;Depth:&lt;br&gt; 34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678500000" lon="-82.864000000">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #9 U.S. Army Tank</name>
+    <cmt>#9 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.710' N&lt;br&gt;Long 082º 51.840' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.6785, -82.86399&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>#9 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.710' N&lt;br&gt;Long 082º 51.840' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.6785, -82.86399&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.678500000" lon="-82.863333300">
+    <ele>0.000</ele>
+    <name>St. Pete Beach Reef - #10 U.S. Army Tank</name>
+    <cmt>#10 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.710' N&lt;br&gt;Long 27º 40.710' N&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.6785, -82.86333&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</cmt>
+    <desc>#10 U.S. Army Tank&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 40.710' N&lt;br&gt;Long 27º 40.710' N&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.6785, -82.86333&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;34-36ft</desc>
+  </wpt>
+  <wpt lat="27.787833300" lon="-82.592500000">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Center Location </name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 47.270' N &lt;br&gt;Long 082º 35.550' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78783, -82.5925&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 47.270' N &lt;br&gt;Long 082º 35.550' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78783, -82.5925&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="27.785933333" lon="-82.595300000">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Concrete</name>
+    <cmt>Concrete material&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27°47.156' N &lt;br&gt;Long 82°35.718' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78593, -82.59529&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Concrete material&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27°47.156' N &lt;br&gt;Long 82°35.718' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78593, -82.59529&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="27.786266667" lon="-82.594333333">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Concrete </name>
+    <cmt>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.176' N &lt;br&gt;Long 82°35.660' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.78626, -82.59433&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.176' N &lt;br&gt;Long 82°35.660' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.78626, -82.59433&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="27.787333333" lon="-82.593583333">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Concrete Piles &amp; Boat Molds</name>
+    <cmt>Concrete pile and boat molds &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.240 N &lt;br&gt;Long 82°35.615 W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78733, -82.59358&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Concrete pile and boat molds &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.240 N &lt;br&gt;Long 82°35.615 W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78733, -82.59358&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="27.787633333" lon="-82.592200000">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Concrete </name>
+    <cmt>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.258' N &lt;br&gt;Long 82°35.532' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78763, -82.5922&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.258' N &lt;br&gt;Long 82°35.532' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78763, -82.5922&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="27.788250000" lon="-82.592116667">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Concrete </name>
+    <cmt>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27°47.295 N &lt;br&gt;Long 82°35.527 W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78825, -82.59211&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27°47.295 N &lt;br&gt;Long 82°35.527 W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.78825, -82.59211&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="27.788733333" lon="-82.591416667">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Barge</name>
+    <cmt>Barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.324' N &lt;br&gt;Long 82°35.485' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.78873, -82.59141&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.324' N &lt;br&gt;Long 82°35.485' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.78873, -82.59141&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="27.788700000" lon="-82.590633333">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Concrete</name>
+    <cmt>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.322' N &lt;br&gt;Long 82°35.438' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.7887, -82.59063&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27°47.322' N &lt;br&gt;Long 82°35.438' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.7887, -82.59063&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="27.789450000" lon="-82.591350000">
+    <ele>0.000</ele>
+    <name>St. Petersburg Bay Reef - Concrete</name>
+    <cmt>Concrete material &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27°47.367' N &lt;br&gt;Long 82°35.481' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.78945, -82.59135&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</cmt>
+    <desc>Concrete material &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27°47.367' N &lt;br&gt;Long 82°35.481' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.78945, -82.59135&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;19ft</desc>
+  </wpt>
+  <wpt lat="28.137500000" lon="-82.930833300">
+    <ele>0.000</ele>
+    <name>Tarpon Springs Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 08.250' N&lt;br&gt;Long 082º 55.850' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.1375, -82.93083&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;26-28ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 08.250' N&lt;br&gt;Long 082º 55.850' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.1375, -82.93083&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;26-28ft</desc>
+  </wpt>
+  <wpt lat="28.138500000" lon="-82.931216667">
+    <ele>0.000</ele>
+    <name>Tarpon Springs Reef - Concrete Material </name>
+    <cmt>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28° 08.310' N&lt;br&gt;Long 082° 55.873' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.1385, -82.93121&lt;br&gt;&lt;br&gt;Depth: 26-28ft</cmt>
+    <desc>Concrete material &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28° 08.310' N&lt;br&gt;Long 082° 55.873' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.1385, -82.93121&lt;br&gt;&lt;br&gt;Depth: 26-28ft</desc>
+  </wpt>
+  <wpt lat="27.741666700" lon="-82.880833300">
+    <ele>0.000</ele>
+    <name>Treasure Island Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 44.500' N&lt;br&gt;Long 082º 52.850' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.74166, -82.88083</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 44.500' N&lt;br&gt;Long 082º 52.850' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.74166, -82.88083</desc>
+  </wpt>
+  <wpt lat="27.742333333" lon="-82.880483333">
+    <ele>0.000</ele>
+    <name>Treasure Island Reef - Concrete Material</name>
+    <cmt>Concrete material&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27° 44.540' N &lt;br&gt;Long 082° 52.829' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.74233, -82.88048</cmt>
+    <desc>Concrete material&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27° 44.540' N &lt;br&gt;Long 082° 52.829' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.74233, -82.88048</desc>
+  </wpt>
+  <wpt lat="27.694916700" lon="-83.291416700">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.695' N &lt;br&gt;Long 083° 17.485' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69491, -83.29141&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.695' N &lt;br&gt;Long 083° 17.485' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69491, -83.29141&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.696016700" lon="-83.292633300">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - 42' Sailboat</name>
+    <cmt>42-foot sailboat&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 41.761' N &lt;br&gt;Long 083º 17.558' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69601, -83.29263&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>42-foot sailboat&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 41.761' N &lt;br&gt;Long 083º 17.558' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69601, -83.29263&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.695850000" lon="-83.292616700">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - 85' Shrimp Boat</name>
+    <cmt>85-foot shrimp boat&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 41.75'1 N &lt;br&gt;Long 083º 17.557' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69585, -83.29261&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>85-foot shrimp boat&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 41.75'1 N &lt;br&gt;Long 083º 17.557' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69585, -83.29261&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.695950000" lon="-83.292000000">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - 38' Sailboat &quot;K2&quot;</name>
+    <cmt>38-foot sailboat &quot;K2&quot;&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 41.757' N &lt;br&gt;Long 083º 17.520' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69595, -83.292&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>38-foot sailboat &quot;K2&quot;&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 41.757' N &lt;br&gt;Long 083º 17.520' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69595, -83.292&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.694766700" lon="-83.292450000">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - 50' Fishing Trawler “WJ”</name>
+    <cmt>50-foot fishing trawler &quot;WJ&quot;&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.686' N &lt;br&gt;Long 083° 17.547' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69476, -83.29245&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>50-foot fishing trawler &quot;WJ&quot;&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.686' N &lt;br&gt;Long 083° 17.547' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69476, -83.29245&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.696133300" lon="-83.291316700">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - 48' Sailboat “Silvernail”</name>
+    <cmt>48-foot Sailboat “Silvernail”&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.768' N &lt;br&gt;Long 083° 17.479' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69613, -83.29131&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>48-foot Sailboat “Silvernail”&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.768' N &lt;br&gt;Long 083° 17.479' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69613, -83.29131&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.694833300" lon="-83.291383300">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - NW Reef Balls</name>
+    <cmt>NW Reef Balls&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.690' N &lt;br&gt;Long 083° 17.483' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69483, -83.29138&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>NW Reef Balls&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.690' N &lt;br&gt;Long 083° 17.483' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69483, -83.29138&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.694800000" lon="-83.290666700">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - NE Reef Balls</name>
+    <cmt>NE Reef Balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27° 41.688' N &lt;br&gt;Long 083° 17.440' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.6948, -83.29066&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>NE Reef Balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27° 41.688' N &lt;br&gt;Long 083° 17.440' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.6948, -83.29066&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.693566667" lon="-83.291566667">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - SW Reef Balls</name>
+    <cmt>SW reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27° 41.614' N &lt;br&gt;Long 083° 17.494' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69356, -83.29156&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>SW reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27° 41.614' N &lt;br&gt;Long 083° 17.494' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69356, -83.29156&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.693683333" lon="-83.290283333">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - SE Reef Balls</name>
+    <cmt>SE reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt; &lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.621' N &lt;br&gt;Long 083° 17.417' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69368, -83.29028&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>SE reef balls&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt; &lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.621' N &lt;br&gt;Long 083° 17.417' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69368, -83.29028&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="27.694116667" lon="-83.290933333">
+    <ele>0.000</ele>
+    <name>Treasure Island II Reef - Center Reef Balls
+</name>
+    <cmt>Center reef balls &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.647' N &lt;br&gt;Long 083° 17.456' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69411, -83.29093&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</cmt>
+    <desc>Center reef balls &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27° 41.647' N &lt;br&gt;Long 083° 17.456' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.69411, -83.29093&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;100ft</desc>
+  </wpt>
+  <wpt lat="28.050000000" lon="-83.012500000">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Center Location</name>
+    <cmt>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º - 03.000 N&lt;br&gt;Long 083º 00.750' W&lt;br&gt; &lt;br&gt;Decimal Degrees: &lt;br&gt;28.05, -83.0125&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Center location &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º - 03.000 N&lt;br&gt;Long 083º 00.750' W&lt;br&gt; &lt;br&gt;Decimal Degrees: &lt;br&gt;28.05, -83.0125&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.047250000" lon="-83.012033300">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Bomber Airplane</name>
+    <cmt>Bomber airplane &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.835' N&lt;br&gt;Long 083º 00.722' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.04725, -83.01203&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Bomber airplane &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.835' N&lt;br&gt;Long 083º 00.722' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.04725, -83.01203&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.049666700" lon="-83.012350000">
+    <ele>0.000</ele>
+    <name>Veterans Reef - 3 Barges</name>
+    <cmt>3 barges &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.980' N&lt;br&gt;Long 083º 00.741' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.04966, -83.01235&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>3 barges &lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.980' N&lt;br&gt;Long 083º 00.741' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.04966, -83.01235&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.049483300" lon="-83.014050000">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Steel Lash Barge</name>
+    <cmt>Steel lash barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.969' N&lt;br&gt;Long 083º 00.843' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.04948, -83.01405&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Steel lash barge&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.969' N&lt;br&gt;Long 083º 00.843' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.04948, -83.01405&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.050266667" lon="-83.012233333">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Concrete Material 1</name>
+    <cmt>Concrete material (1)&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28° 03.016' N&lt;br&gt;Long 083° 00.734' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05026, -83.01223&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Concrete material (1)&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28° 03.016' N&lt;br&gt;Long 083° 00.734' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05026, -83.01223&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.050516667" lon="-83.012833333">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Concrete Material 2</name>
+    <cmt>Concrete material (2)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28° 03.031' N&lt;br&gt;Long 083° 00.770' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.05051, -83.01283&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Concrete material (2)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28° 03.031' N&lt;br&gt;Long 083° 00.770' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.05051, -83.01283&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.048833300" lon="-83.013850000">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Concrete Material 3</name>
+    <cmt>Concrete material (3)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.930' N&lt;br&gt;Long 083º 00.831' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.04883, -83.01385&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Concrete material (3)&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.930' N&lt;br&gt;Long 083º 00.831' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.04883, -83.01385&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.048966700" lon="-83.012616700">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Limestone Rock</name>
+    <cmt>Limestone rock&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.938' N&lt;br&gt;Long 083º 00.757' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.04896, -83.01261&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Limestone rock&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 02.938' N&lt;br&gt;Long 083º 00.757' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.04896, -83.01261&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.050216700" lon="-83.011900000">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Concrete Tetrahedrons</name>
+    <cmt>Concrete tetrahedrons&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 03.013' N&lt;br&gt;Long 083º 00.714' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05021, -83.0119&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Concrete tetrahedrons&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 03.013' N&lt;br&gt;Long 083º 00.714' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05021, -83.0119&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.050250000" lon="-83.012650000">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Concrete Polygonals</name>
+    <cmt>Concrete polygonals&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 03.015' N&lt;br&gt;Long 083º 00.759' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05025, -83.01264&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</cmt>
+    <desc>Concrete polygonals&lt;br&gt;&lt;br&gt;Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 03.015' N&lt;br&gt;Long 083º 00.759' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05025, -83.01264&lt;br&gt;&lt;br&gt;Depth: &lt;br&gt;43-47ft</desc>
+  </wpt>
+  <wpt lat="28.051950000" lon="-83.010833300">
+    <ele>0.000</ele>
+    <name>Veterans Reef - Circle of Heroes</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 03.117' N&lt;br&gt;Long 083º 00.650' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05195, -83.01083</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 28º 03.117' N&lt;br&gt;Long 083º 00.650' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;28.05195, -83.01083</desc>
+  </wpt>
+  <wpt lat="28.051200000" lon="-83.013983300">
+    <ele>0.000</ele>
+    <name>Veterans Reef - 40' Steel Hulled Sailboat</name>
+    <cmt>The Clearwater Police Department dedicated this reef to the late Sgt. Dan Loder, who served on the Homicide Unit. He was also a member of the Emergency Response Team and was a Field Training Officer. &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 03.072' N&lt;br&gt;Long 083º 00.839' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.0512, -83.01398</cmt>
+    <desc>The Clearwater Police Department dedicated this reef to the late Sgt. Dan Loder, who served on the Homicide Unit. He was also a member of the Emergency Response Team and was a Field Training Officer. &lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 28º 03.072' N&lt;br&gt;Long 083º 00.839' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;28.0512, -83.01398</desc>
+  </wpt>
+  <wpt lat="27.655833300" lon="-82.842833300">
+    <ele>0.000</ele>
+    <name>King's Reef - Material Location #1</name>
+    <cmt>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5MIPdwz2j5mAhxWapGPcKaydu_85JM9zJShKVI-V35HZLqZj8ejWgNYTRFvm_o5tPC9pfBwZbn7HfGgitwwj-vLMN4r6yvttGx2aMwtchMqvIT9yl2LUCtqYSqjd6XFW5b40Usb4p_tqj-zLV_D7IZUEa5M6ajzWecr0uK1SrhynLx2sv8M4CHGVERqYhQNhwlmLMFA14K9ow4YFIQxbSXY3fG7NSEeAtErYE_IORW01h7qb61BJ00Pto?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;New Artificial Reef - Deployed in September 2023&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 39.350' N&lt;br&gt;Long 082º 50.570' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.65583, -82.84283&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X438ME3GN_Gob2PQbVLMHCZp4FvJN1OFAWOFBkpJy6PDP_By_omJ6R_nx1TkIlHZZtofbE-GpIbyhRpbxSaFToWsL8jrKel3_InZWPJ5gQ8DGJL__8Blqj_dM9NXxvjzWVFss8tBiN7b5cg-21Mkvw4V-IpGUQfzcjUxp2xHaKHR76IjEZZNmI2rIpylfvJQ0sONYuhl_rOQ8ZmrTv8jFQ0MrJ_8xHJKx3pLSflelDaxP14Ofrzi0oCqj4?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6dRJWVUbeJjhEA6H-BxEqSPwsN0f1ytkbekLFO47LA_L8t9TEfFCIQEskEnsV4WKSwPG5tws2-ToDTnH4FwDkwT-EqOWdJ9banPdv3MX-wT2xWzv_UFrYIRjsW-UBCeZpCeftfAJwexkyjkLH9uFO4X4CHQyoKKPzCazzH0cZOfYxZnHT0sjHGXamVT25umMP5tdPaoDxXowVvldwy81ok1gx98ydqxx3CTEfvNqzEn70FX9kWoG5K8RM?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5MIPdwz2j5mAhxWapGPcKaydu_85JM9zJShKVI-V35HZLqZj8ejWgNYTRFvm_o5tPC9pfBwZbn7HfGgitwwj-vLMN4r6yvttGx2aMwtchMqvIT9yl2LUCtqYSqjd6XFW5b40Usb4p_tqj-zLV_D7IZUEa5M6ajzWecr0uK1SrhynLx2sv8M4CHGVERqYhQNhwlmLMFA14K9ow4YFIQxbSXY3fG7NSEeAtErYE_IORW01h7qb61BJ00Pto?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;New Artificial Reef - Deployed in September 2023&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 39.350' N&lt;br&gt;Long 082º 50.570' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.65583, -82.84283&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X438ME3GN_Gob2PQbVLMHCZp4FvJN1OFAWOFBkpJy6PDP_By_omJ6R_nx1TkIlHZZtofbE-GpIbyhRpbxSaFToWsL8jrKel3_InZWPJ5gQ8DGJL__8Blqj_dM9NXxvjzWVFss8tBiN7b5cg-21Mkvw4V-IpGUQfzcjUxp2xHaKHR76IjEZZNmI2rIpylfvJQ0sONYuhl_rOQ8ZmrTv8jFQ0MrJ_8xHJKx3pLSflelDaxP14Ofrzi0oCqj4?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6dRJWVUbeJjhEA6H-BxEqSPwsN0f1ytkbekLFO47LA_L8t9TEfFCIQEskEnsV4WKSwPG5tws2-ToDTnH4FwDkwT-EqOWdJ9banPdv3MX-wT2xWzv_UFrYIRjsW-UBCeZpCeftfAJwexkyjkLH9uFO4X4CHQyoKKPzCazzH0cZOfYxZnHT0sjHGXamVT25umMP5tdPaoDxXowVvldwy81ok1gx98ydqxx3CTEfvNqzEn70FX9kWoG5K8RM?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
+  <wpt lat="27.655833300" lon="-82.844000000">
+    <ele>0.000</ele>
+    <name>King's Reef - Material Location #2</name>
+    <cmt>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5898xV-Kiqqye1psKsqsG4XimrkyiYIrgDkCY9u87Ni-vgc99chVgjFINSSGnRut-SGo9dkAyGfo2O6Bs2T-WQrWjc4WPhCSDVGJXeKKdCeXCbsuCuO87KBFES1Xyf-tOPZiDU4IJgISU9TtRUYGjseMbMXgiRMLO7ndL7f6GEsxlFhHBaASFWXcnrYC2qW6XVC0A54Lms_bqFvFIY1a8OzK5Czp_mCCb4g_77LjS6AYtD49z1NT2v5Qg?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;New Artificial Reef - Deployed in September 2023&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 39.350' N&lt;br&gt;Long 082º 50.640' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.65583, -82.84399&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5R18-TH1PZhOyW5Mra3DOmGEzNW-5WBWyv19attZ-P5akeQGyPoxwNScvZ65swZhk6FFP5USc_pZVrIycC9F4bEnJjbojmo9jalCRBM10HHQQtA48Q7Iik5t3c6du84cuo6Nx4Nw4UihILZ81eo4uDNJacI8DrPYqr7wJFgQosuC7srQKX1PB-Czqcta1byWCnaM1Kz7ow7o7etyyfDx3W3wl9PYwJBNNxjOFTqya8joffTcZ_lP80yXA?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Me6MCGxQlweWv_CbxRRpMSxHQFfEIdm6jUvHnchefWq5HkDsU3GzRp0yVmm1EWqTpdjW9TmWg-JVp9IEc86DIkQZXTZMpssZ3RyejBxXccT9kSr5dxRNLVjDEGqBpGMibvZKSQ2PlNSOdqd3wWkh0V-ySNHNSHy9hp7H4XCHSfE1GQQiW0PUjLJfEHbAx9B9NfcJCdhDe5zBHG3PvwvJCwgsMAOH25SUmNN5IM9qI08taF9DROW5x3aQ?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5898xV-Kiqqye1psKsqsG4XimrkyiYIrgDkCY9u87Ni-vgc99chVgjFINSSGnRut-SGo9dkAyGfo2O6Bs2T-WQrWjc4WPhCSDVGJXeKKdCeXCbsuCuO87KBFES1Xyf-tOPZiDU4IJgISU9TtRUYGjseMbMXgiRMLO7ndL7f6GEsxlFhHBaASFWXcnrYC2qW6XVC0A54Lms_bqFvFIY1a8OzK5Czp_mCCb4g_77LjS6AYtD49z1NT2v5Qg?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;New Artificial Reef - Deployed in September 2023&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 39.350' N&lt;br&gt;Long 082º 50.640' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.65583, -82.84399&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5R18-TH1PZhOyW5Mra3DOmGEzNW-5WBWyv19attZ-P5akeQGyPoxwNScvZ65swZhk6FFP5USc_pZVrIycC9F4bEnJjbojmo9jalCRBM10HHQQtA48Q7Iik5t3c6du84cuo6Nx4Nw4UihILZ81eo4uDNJacI8DrPYqr7wJFgQosuC7srQKX1PB-Czqcta1byWCnaM1Kz7ow7o7etyyfDx3W3wl9PYwJBNNxjOFTqya8joffTcZ_lP80yXA?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Me6MCGxQlweWv_CbxRRpMSxHQFfEIdm6jUvHnchefWq5HkDsU3GzRp0yVmm1EWqTpdjW9TmWg-JVp9IEc86DIkQZXTZMpssZ3RyejBxXccT9kSr5dxRNLVjDEGqBpGMibvZKSQ2PlNSOdqd3wWkh0V-ySNHNSHy9hp7H4XCHSfE1GQQiW0PUjLJfEHbAx9B9NfcJCdhDe5zBHG3PvwvJCwgsMAOH25SUmNN5IM9qI08taF9DROW5x3aQ?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
+  <wpt lat="27.654333300" lon="-82.844000000">
+    <ele>0.000</ele>
+    <name>King's Reef - Material Location #3</name>
+    <cmt>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7H3cq_70ma4utSZSa848uqU_Xx1NPnGGdFEag-MTGEx8IhZntmPo0iY926lXqsE_DFbcVv4x4IMlFl4qZmItBUzbL97IPXJ1dLS26NrnPYe3HV-tDGenkSqrRXugH3Go6R-9kQxgfBdS-Wr8nJUDdTicnE1ZnX3FG2FXQ1iU5jKRSHyQhlyqb8OH7A8EY1LCBessqqdmaTOvU8cv2woMzo5jDB0B4i_kHseHySRpMWutoaYRqwG31LnVY?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;New Artificial Reef - Deployed in September 2023&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 39.260' N&lt;br&gt;Long 082º 50.640' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.65433, -82.84399&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7PCXIkWh0AxXY7YQdJrJPZMug7xAM7TCLeMplHjOU7yWFvSQq4AH_yJQeeeqPet-pn7ZN17hGL-jxC18jgT7wOYTNeBwrQWekqHA1At9e6nCE95sATS_KwIB1x_ObqEjMSAzcs0yzNTMix5o87sMI3Uk7QjW5K05d5lMQHXC4Wob7EqAgirdSIWIPX6Jg0lcNVcUH5c15l-qwVIZ4nubeAUN_PZpDIhEMzSUoWOtT3YxP3JZgz09q597Q?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7wygJXWAahTfRd7gJV87v64r4g2mB648ZHPZyokbf4p0HnoCJ38zt7qzDHkRFddSj4i02IyGfYXWP9UmL8f1q18jkfZ_ynKJ3Vt0mR34tSgnd1QrLm74XJd5xVOKLptkAo93Gp9u3yA_Jv4X2sGj4HoEbNuBLgGXxsm_gbH_imu6BIhSGbm_HkUxfkGepsex4KheJZJvT8tgCGpCXH9kl9KPp072Oa-sVJdv3FyTHKK1dg_oUhE_8hO_4?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</cmt>
+    <desc>&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7H3cq_70ma4utSZSa848uqU_Xx1NPnGGdFEag-MTGEx8IhZntmPo0iY926lXqsE_DFbcVv4x4IMlFl4qZmItBUzbL97IPXJ1dLS26NrnPYe3HV-tDGenkSqrRXugH3Go6R-9kQxgfBdS-Wr8nJUDdTicnE1ZnX3FG2FXQ1iU5jKRSHyQhlyqb8OH7A8EY1LCBessqqdmaTOvU8cv2woMzo5jDB0B4i_kHseHySRpMWutoaYRqwG31LnVY?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;New Artificial Reef - Deployed in September 2023&lt;br&gt;&lt;br&gt;Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 39.260' N&lt;br&gt;Long 082º 50.640' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.65433, -82.84399&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7PCXIkWh0AxXY7YQdJrJPZMug7xAM7TCLeMplHjOU7yWFvSQq4AH_yJQeeeqPet-pn7ZN17hGL-jxC18jgT7wOYTNeBwrQWekqHA1At9e6nCE95sATS_KwIB1x_ObqEjMSAzcs0yzNTMix5o87sMI3Uk7QjW5K05d5lMQHXC4Wob7EqAgirdSIWIPX6Jg0lcNVcUH5c15l-qwVIZ4nubeAUN_PZpDIhEMzSUoWOtT3YxP3JZgz09q597Q?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;&lt;br&gt;&lt;br&gt;&lt;img src=&quot;https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7wygJXWAahTfRd7gJV87v64r4g2mB648ZHPZyokbf4p0HnoCJ38zt7qzDHkRFddSj4i02IyGfYXWP9UmL8f1q18jkfZ_ynKJ3Vt0mR34tSgnd1QrLm74XJd5xVOKLptkAo93Gp9u3yA_Jv4X2sGj4HoEbNuBLgGXxsm_gbH_imu6BIhSGbm_HkUxfkGepsex4KheJZJvT8tgCGpCXH9kl9KPp072Oa-sVJdv3FyTHKK1dg_oUhE_8hO_4?authuser=0&amp;fife=s16383&quot; height=&quot;200&quot; width=&quot;auto&quot; /&gt;</desc>
+  </wpt>
+  <wpt lat="27.890300000" lon="-82.853983300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 1</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27º - 53.418' N&lt;br&gt;Long  082º - 51.239' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.8903, -82.85398</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27º - 53.418' N&lt;br&gt;Long  082º - 51.239' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.8903, -82.85398</desc>
+  </wpt>
+  <wpt lat="27.891233300" lon="-82.853683300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 2</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 53.474' N &lt;br&gt;Long 082º 51.221' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.89123, -82.85368</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 53.474' N &lt;br&gt;Long 082º 51.221' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.89123, -82.85368</desc>
+  </wpt>
+  <wpt lat="27.891916700" lon="-82.853633300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 3</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 53.515' N&lt;br&gt;Long 082º 51.218' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.89191, -82.85363</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 53.515' N&lt;br&gt;Long 082º 51.218' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.89191, -82.85363</desc>
+  </wpt>
+  <wpt lat="27.893500000" lon="-82.853333300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 4</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27º 53.610' N&lt;br&gt;Long 082º 51.200' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.8935, -82.85333</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:  &lt;br&gt;Lat 27º 53.610' N&lt;br&gt;Long 082º 51.200' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.8935, -82.85333</desc>
+  </wpt>
+  <wpt lat="27.894783300" lon="-82.853133300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 5</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 53.687' N&lt;br&gt;Long 082º 51.188' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.89478, -82.85313</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 53.687' N&lt;br&gt;Long 082º 51.188' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.89478, -82.85313</desc>
+  </wpt>
+  <wpt lat="27.896450000" lon="-82.853183300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 6</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 53.787' N&lt;br&gt;Long 082º 51.191' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.89645, -82.85318</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 53.787' N&lt;br&gt;Long 082º 51.191' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.89645, -82.85318</desc>
+  </wpt>
+  <wpt lat="27.902666700" lon="-82.851500000">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 7</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 54.160' N&lt;br&gt;Long 082º 51.090' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.90266, -82.8515</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 54.160' N&lt;br&gt;Long 082º 51.090' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.90266, -82.8515</desc>
+  </wpt>
+  <wpt lat="27.903833300" lon="-82.851166700">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 8</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat N 27º 54.230' N&lt;br&gt;Long 082º 51.070' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.90383, -82.85116</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat N 27º 54.230' N&lt;br&gt;Long 082º 51.070' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.90383, -82.85116</desc>
+  </wpt>
+  <wpt lat="27.904666700" lon="-82.850833300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 9</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 54.280' N&lt;br&gt;Long 082º 51.050' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.90466, -82.85083</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 54.280' N&lt;br&gt;Long 082º 51.050' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.90466, -82.85083</desc>
+  </wpt>
+  <wpt lat="27.946833300" lon="-82.840166700">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 10</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 56.810' N&lt;br&gt;Long 082º 50.410' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.94683, -82.84016</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 56.810' N&lt;br&gt;Long 082º 50.410' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.94683, -82.84016</desc>
+  </wpt>
+  <wpt lat="27.948833300" lon="-82.840166700">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 11</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 56.930' N&lt;br&gt;Long 082º 50.410' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.94883, -82.84016</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 56.930' N&lt;br&gt;Long 082º 50.410' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.94883, -82.84016</desc>
+  </wpt>
+  <wpt lat="27.950000000" lon="-82.839000000">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 12</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.000' N&lt;br&gt;Long 082º 50.340' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.95, -82.839</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.000' N&lt;br&gt;Long 082º 50.340' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.95, -82.839</desc>
+  </wpt>
+  <wpt lat="27.951833300" lon="-82.838333300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 13</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.110' N&lt;br&gt;Long 082º 50.300' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.95183, -82.83833</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.110' N&lt;br&gt;Long 082º 50.300' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.95183, -82.83833</desc>
+  </wpt>
+  <wpt lat="27.953833300" lon="-82.837333300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 14</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.230' N&lt;br&gt;Long 082º 50.240' W &lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.95383, -82.83733</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.230' N&lt;br&gt;Long 082º 50.240' W &lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.95383, -82.83733</desc>
+  </wpt>
+  <wpt lat="27.955500000" lon="-82.837333300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 15</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.330' N &lt;br&gt;Long 082º 50.240' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.9555, -82.83733</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.330' N &lt;br&gt;Long 082º 50.240' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.9555, -82.83733</desc>
+  </wpt>
+  <wpt lat="27.957000000" lon="-82.837333300">
+    <ele>0.000</ele>
+    <name>North Inshore Reef 16</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.420' N&lt;br&gt;Long 082º 50.240' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.957, -82.83733</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 57.420' N&lt;br&gt;Long 082º 50.240' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.957, -82.83733</desc>
+  </wpt>
+  <wpt lat="27.871000000" lon="-82.854833300">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 1</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.260' N&lt;br&gt;Long 082º 51.290' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.871, -82.85483</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.260' N&lt;br&gt;Long 082º 51.290' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.871, -82.85483</desc>
+  </wpt>
+  <wpt lat="27.870000000" lon="-82.855000000">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 2</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.200' N&lt;br&gt;Long 082º 51.300' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.87, -82.85499</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 52.200' N&lt;br&gt;Long 082º 51.300' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.87, -82.85499</desc>
+  </wpt>
+  <wpt lat="27.868333300" lon="-82.854000000">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 3</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 52.100' N&lt;br&gt;Long 082º 51.240' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86833, -82.854</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 52.100' N&lt;br&gt;Long 082º 51.240' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86833, -82.854</desc>
+  </wpt>
+  <wpt lat="27.866500000" lon="-82.854333300">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 4</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.990' N&lt;br&gt;Long 082º 51.260' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.8665, -82.85433</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.990' N&lt;br&gt;Long 082º 51.260' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.8665, -82.85433</desc>
+  </wpt>
+  <wpt lat="27.865333300" lon="-82.854333300">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 5</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.920' N&lt;br&gt;Long 082º 51.260' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86533, -82.85433</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.920' N&lt;br&gt;Long 082º 51.260' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86533, -82.85433</desc>
+  </wpt>
+  <wpt lat="27.864333300" lon="-82.854500000">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 6</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 51.860' N&lt;br&gt;Long 082º 51.270' W&lt;br&gt;&lt;br&gt;Decimal Degrees:  &lt;br&gt;27.86433, -82.8545</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes:&lt;br&gt;Lat 27º 51.860' N&lt;br&gt;Long 082º 51.270' W&lt;br&gt;&lt;br&gt;Decimal Degrees:  &lt;br&gt;27.86433, -82.8545</desc>
+  </wpt>
+  <wpt lat="27.862833300" lon="-82.854666700">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 7</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.770' N &lt;br&gt;Long 082º 51.280' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86283, -82.85466</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.770' N &lt;br&gt;Long 082º 51.280' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86283, -82.85466</desc>
+  </wpt>
+  <wpt lat="27.862166700" lon="-82.854333300">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 8</name>
+    <cmt>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.730' N &lt;br&gt;Long 082º 51.260' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.86216, -82.85433</cmt>
+    <desc>Coordinates:&lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.730' N &lt;br&gt;Long 082º 51.260' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.86216, -82.85433</desc>
+  </wpt>
+  <wpt lat="27.861166700" lon="-82.853833300">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 9</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.670' N &lt;br&gt;Long 082º 51.230' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86116, -82.85383</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.670' N &lt;br&gt;Long 082º 51.230' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.86116, -82.85383</desc>
+  </wpt>
+  <wpt lat="27.860000000" lon="-82.853833300">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 10</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.600' N &lt;br&gt;Long 082º 51.230' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.86, -82.85383</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.600' N &lt;br&gt;Long 082º 51.230' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.86, -82.85383</desc>
+  </wpt>
+  <wpt lat="27.854166700" lon="-82.866333300">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 11</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.250' N &lt;br&gt;Long 082º 51.980' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.85416, -82.86633</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 51.250' N &lt;br&gt;Long 082º 51.980' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.85416, -82.86633</desc>
+  </wpt>
+  <wpt lat="27.845833300" lon="-82.846666700">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 12</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 50.750' N &lt;br&gt;Long 082º 50.800' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.84583, -82.84666</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 50.750' N &lt;br&gt;Long 082º 50.800' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.84583, -82.84666</desc>
+  </wpt>
+  <wpt lat="27.840333300" lon="-82.844166700">
+    <ele>0.000</ele>
+    <name>South Inshore Reef 13</name>
+    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 50.420' N &lt;br&gt;Long 082º 50.650' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.84033, -82.84416</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 50.420' N &lt;br&gt;Long 082º 50.650' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.84033, -82.84416</desc>
+  </wpt>
+</gpx>

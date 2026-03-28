@@ -1,0 +1,2426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.0" creator="GPSBabel - https://www.gpsbabel.org" xmlns="http://www.topografix.com/GPX/1/0">
+  <time>2026-03-27T13:16:04.824Z</time>
+  <bounds minlat="0.000000084" minlon="-94.799016668" maxlat="50.982883293" maxlon="121.640266674"/>
+  <wpt lat="29.443805544" lon="-83.843777776">
+    <name>LAMB SPRING (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.444166636" lon="-83.843583316">
+    <name>SPRING 4 BIG (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.681389797" lon="-81.378961802">
+    <ele>-0.355</ele>
+    <name>001 (pj)</name>
+    <cmt>01-JAN-12 3:16:39PM</cmt>
+    <desc>01-JAN-12 3:16:39PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.641363025" lon="-81.314992793">
+    <ele>-3.479</ele>
+    <name>026 (pj)</name>
+    <cmt>08-AUG-06 10:38</cmt>
+    <desc>08-AUG-06 10:38</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.640996568" lon="-81.314786011">
+    <ele>0.607</ele>
+    <name>027 (pj)</name>
+    <cmt>08-AUG-06 12:01</cmt>
+    <desc>08-AUG-06 12:01</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.635693757" lon="-81.313312305">
+    <ele>-1.316</ele>
+    <name>029 (pj)</name>
+    <cmt>10-AUG-06 08:07</cmt>
+    <desc>10-AUG-06 08:07</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="28.966649948" lon="-81.648149975">
+    <ele>20.794</ele>
+    <name>034 (pj)</name>
+    <cmt>05-NOV-08 3:11:39AM</cmt>
+    <desc>05-NOV-08 3:11:39AM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="32.867564633" lon="-81.524200737">
+    <ele>0.126</ele>
+    <name>035 (pj)</name>
+    <cmt>13-NOV-08 9:41:54AM</cmt>
+    <desc>13-NOV-08 9:41:54AM</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="24.577055890" lon="-81.301554842">
+    <ele>-0.835</ele>
+    <name>040 (pj)</name>
+    <cmt>20-JUL-07 12:05</cmt>
+    <desc>20-JUL-07 12:05</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.572403515" lon="-81.283617401">
+    <ele>1.808</ele>
+    <name>042 (pj)</name>
+    <cmt>20-JUL-07 13:00</cmt>
+    <desc>20-JUL-07 13:00</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.631015481" lon="-81.315883873">
+    <ele>2.529</ele>
+    <name>046 (pj)</name>
+    <cmt>26-JUL-07 08:28</cmt>
+    <desc>26-JUL-07 08:28</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.631077256" lon="-81.315907845">
+    <ele>2.289</ele>
+    <name>047 (pj)</name>
+    <cmt>26-JUL-07 08:29</cmt>
+    <desc>26-JUL-07 08:29</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.580958923" lon="-81.303666495">
+    <ele>-0.114</ele>
+    <name>060 (pj)</name>
+    <cmt>16-JUL-08 13:47</cmt>
+    <desc>16-JUL-08 13:47</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.576954301" lon="-81.301439255">
+    <ele>-0.835</ele>
+    <name>061 (pj)</name>
+    <cmt>17-JUL-08 09:54</cmt>
+    <desc>17-JUL-08 09:54</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.570091199" lon="-81.374040870">
+    <ele>3.010</ele>
+    <name>068 (pj)</name>
+    <cmt>29-JUL-08 12:25</cmt>
+    <desc>29-JUL-08 12:25</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.594807839" lon="-81.339556715">
+    <ele>-0.835</ele>
+    <name>072 (pj)</name>
+    <cmt>06-AUG-08 10:36</cmt>
+    <desc>06-AUG-08 10:36</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.600377530" lon="-81.329051424">
+    <ele>1.568</ele>
+    <name>074 (pj)</name>
+    <cmt>06-AUG-08 12:02</cmt>
+    <desc>06-AUG-08 12:02</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.583914382" lon="-81.293331357">
+    <ele>2.049</ele>
+    <name>075 (pj)</name>
+    <cmt>06-AUG-08 12:16</cmt>
+    <desc>06-AUG-08 12:16</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.577561319" lon="-81.285349773">
+    <name>076 (pj)</name>
+    <cmt>07-AUG-08 11:22</cmt>
+    <desc>07-AUG-08 11:22</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.670229042" lon="-81.249870853">
+    <ele>23.678</ele>
+    <name>0HIO CHANE (pj)</name>
+    <cmt>11-MAY-04 15:19</cmt>
+    <desc>11-MAY-04 15:19</desc>
+    <sym>Bridge</sym>
+  </wpt>
+  <wpt lat="24.698118148" lon="-81.172404718">
+    <ele>34.973</ele>
+    <name>7 MILE BR (pj)</name>
+    <cmt>11-MAY-04 15:25</cmt>
+    <desc>11-MAY-04 15:25</desc>
+    <sym>Bridge</sym>
+  </wpt>
+  <wpt lat="24.529990163" lon="-81.461643409">
+    <ele>-2.998</ele>
+    <name>ADBUSH (pj)</name>
+    <cmt>25-MAY-06 13:57</cmt>
+    <desc>25-MAY-06 13:57</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="24.530166602" lon="-81.460666666">
+    <ele>20.073</ele>
+    <name>ADOLPHUS S (pj)</name>
+    <cmt>26-JUL-04 16:26</cmt>
+    <desc>26-JUL-04 16:26</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="24.535333375" lon="-81.463666633">
+    <name>American Shole (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.523115326" lon="-81.515589003">
+    <ele>2.049</ele>
+    <name>AMSHHUGLDG (pj)</name>
+    <cmt>08-OCT-06 14:04</cmt>
+    <desc>08-OCT-06 14:04</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.565583328" lon="-81.467249980">
+    <ele>-0.114</ele>
+    <name>AMSHLBIGRF (pj)</name>
+    <cmt>20-OCT-04 18:06</cmt>
+    <desc>20-OCT-04 18:06</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.565483332" lon="-81.468733326">
+    <ele>-2.037</ele>
+    <name>AMSHLCRLHD (pj)</name>
+    <cmt>20-OCT-04 18:02</cmt>
+    <desc>20-OCT-04 18:02</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.544663019" lon="-81.472528065">
+    <ele>3.010</ele>
+    <name>AMSHLLRGRF (pj)</name>
+    <cmt>21-SEP-08 14:15</cmt>
+    <desc>21-SEP-08 14:15</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.565433292" lon="-81.472316589">
+    <ele>-0.114</ele>
+    <name>AMSHLLWRLR (pj)</name>
+    <cmt>20-OCT-04 18:11</cmt>
+    <desc>20-OCT-04 18:11</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.540333264" lon="-81.489516590">
+    <ele>5.894</ele>
+    <name>AMSHPCHRF1 (pj)</name>
+    <cmt>24-OCT-04 09:49</cmt>
+    <desc>24-OCT-04 09:49</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.555483302" lon="-81.365616638">
+    <ele>-2.037</ele>
+    <name>ANDRWGUDPR (pj)</name>
+    <cmt>23-OCT-04 22:53</cmt>
+    <desc>23-OCT-04 22:53</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.279166669" lon="-82.957499977">
+    <name>AP Site 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.573583268" lon="-81.320333323">
+    <ele>-31.597</ele>
+    <name>AS LOBSTER (pj)</name>
+    <cmt>07-MAY-14 2:53:01PM</cmt>
+    <desc>07-MAY-14 2:53:01PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.583299989" lon="-81.433333280">
+    <ele>25.120</ele>
+    <name>ASHWKCNL1 (pj)</name>
+    <cmt>20-MAY-05 13:34</cmt>
+    <desc>20-MAY-05 13:34</desc>
+    <sym>Zoo</sym>
+  </wpt>
+  <wpt lat="29.162067231" lon="-81.534820609">
+    <ele>-36.404</ele>
+    <name>AST (pj)</name>
+    <cmt>26-JUN-03 06:56</cmt>
+    <desc>26-JUN-03 06:56</desc>
+    <sym>Forest</sym>
+  </wpt>
+  <wpt lat="29.162771394" lon="-81.524499385">
+    <ele>6.615</ele>
+    <name>AST RAMP (pj)</name>
+    <cmt>26-JUN-03 07:34</cmt>
+    <desc>26-JUN-03 07:34</desc>
+    <sym>Boat Ramp</sym>
+  </wpt>
+  <wpt lat="24.648268623" lon="-81.324764332">
+    <ele>18.871</ele>
+    <name>B0GIE CHAN (pj)</name>
+    <cmt>11-MAY-04 15:14</cmt>
+    <desc>11-MAY-04 15:14</desc>
+    <sym>Bridge</sym>
+  </wpt>
+  <wpt lat="24.658123478" lon="-81.287407530">
+    <ele>29.927</ele>
+    <name>BAHIA BDG (pj)</name>
+    <cmt>11-MAY-04 15:16</cmt>
+    <desc>11-MAY-04 15:16</desc>
+    <sym>Bridge</sym>
+  </wpt>
+  <wpt lat="24.832666637" lon="-81.235999977">
+    <name>Bahia Hond Cha (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.595666649" lon="-81.289666705">
+    <name>Bahia Honda 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.595833365" lon="-81.290666666">
+    <name>Bahia Honda Rf (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.255333314" lon="-82.957499977">
+    <name>Barges (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="24.676805567" lon="-81.377222221">
+    <ele>-0.114</ele>
+    <name>BAY BARREL (pj)</name>
+    <cmt>29-JUL-08 16:01</cmt>
+    <desc>29-JUL-08 16:01</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.681387534" lon="-81.378962221">
+    <ele>0.126</ele>
+    <name>Bay Pvc (pj)</name>
+    <cmt>01-JAN-12 3:17:45PM</cmt>
+    <desc>01-JAN-12 3:17:45PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.528500041" lon="-82.978333365">
+    <name>Bendiction Rf (pj)</name>
+    <cmt>25' Gulf of Mexico</cmt>
+    <desc>25' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.550833357" lon="-81.329166675">
+    <name>Bg Pine Rf 1 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.798999969" lon="-81.412499975">
+    <name>Bg Spanish Cha (pj)</name>
+    <cmt>Chanel</cmt>
+    <desc>Chanel</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.762333371" lon="-83.733000029">
+    <name>Big Bend Proje (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.764833357" lon="-83.727333359">
+    <name>BIG BEND RF 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.761166694" lon="-83.731999984">
+    <name>Big Bend rf 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.579115910" lon="-81.285540964">
+    <ele>-0.355</ele>
+    <name>BIG BRAIN (pj)</name>
+    <cmt>06-AUG-08 13:45</cmt>
+    <desc>06-AUG-08 13:45</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.544833340" lon="-81.325500011">
+    <name>Big Pine Ree 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.550166661" lon="-81.325000031">
+    <name>Big Pine Reef (pj)</name>
+    <cmt>US 17</cmt>
+    <desc>US 17</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.541666657" lon="-81.323666638">
+    <name>Big Pine Rf 4 (pj)</name>
+    <cmt>Atlantic</cmt>
+    <desc>Atlantic</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.813855899" lon="-82.884908337">
+    <ele>11.902</ele>
+    <name>BIG ROCK (pj)</name>
+    <cmt>26-JUN-07 13:37</cmt>
+    <desc>26-JUN-07 13:37</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.537042361" lon="-81.451393263">
+    <ele>-4.200</ele>
+    <name>BIG SPUR 1 (pj)</name>
+    <cmt>28-JUL-08 12:43</cmt>
+    <desc>28-JUL-08 12:43</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.533836031" lon="-81.451941608">
+    <ele>0.366</ele>
+    <name>BIG SPUR 2 (pj)</name>
+    <cmt>03-JUN-08 07:49</cmt>
+    <desc>03-JUN-08 07:49</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.557224223" lon="-81.359029301">
+    <ele>-0.114</ele>
+    <name>BIGLDGEAST (pj)</name>
+    <cmt>05-AUG-05 14:23</cmt>
+    <desc>05-AUG-05 14:23</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.557316592" lon="-81.359533304">
+    <ele>-2.037</ele>
+    <name>BIGLDGEPR (pj)</name>
+    <cmt>23-OCT-04 23:02</cmt>
+    <desc>23-OCT-04 23:02</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.211499935" lon="-82.379266592">
+    <ele>-44.335</ele>
+    <name>Bigledgearea1 (pj)</name>
+    <cmt>31-MAR-10 9:05:39PM</cmt>
+    <desc>31-MAR-10 9:05:39PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.212016596" lon="-82.379466584">
+    <ele>-44.575</ele>
+    <name>Bigledgearea2 (pj)</name>
+    <cmt>31-MAR-10 9:07:55PM</cmt>
+    <desc>31-MAR-10 9:07:55PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.216799980" lon="-82.379216636">
+    <ele>-49.141</ele>
+    <name>Bigledgearea3 (pj)</name>
+    <cmt>31-MAR-10 9:34:53PM</cmt>
+    <desc>31-MAR-10 9:34:53PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.217033332" lon="-82.379633300">
+    <ele>-49.862</ele>
+    <name>Bigledgearea4 (pj)</name>
+    <cmt>31-MAR-10 9:39:25PM</cmt>
+    <desc>31-MAR-10 9:39:25PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.217916617" lon="-82.380033284">
+    <ele>-50.343</ele>
+    <name>Bigledgearea5 (pj)</name>
+    <cmt>31-MAR-10 9:42:40PM</cmt>
+    <desc>31-MAR-10 9:42:40PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.374388885" lon="-83.925305530">
+    <name>BILLY'S HOLE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.700076915" lon="-81.345728142">
+    <ele>-3.239</ele>
+    <name>BLOCKS (pj)</name>
+    <cmt>12-JUN-04 09:25</cmt>
+    <desc>12-JUN-04 09:25</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.781566629" lon="-83.063949980">
+    <name>BOAT MOLDS (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.669499984" lon="-81.522166701">
+    <name>Bow Chanel led (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.550266657" lon="-81.324966587">
+    <ele>25.120</ele>
+    <name>BPSHLAF001 (pj)</name>
+    <cmt>20-MAY-05 13:47</cmt>
+    <desc>20-MAY-05 13:47</desc>
+    <sym>Zoo</sym>
+  </wpt>
+  <wpt lat="24.550933270" lon="-81.329149995">
+    <ele>25.120</ele>
+    <name>BPSHLAF002 (pj)</name>
+    <cmt>20-MAY-05 13:51</cmt>
+    <desc>20-MAY-05 13:51</desc>
+    <sym>Zoo</sym>
+  </wpt>
+  <wpt lat="24.544866616" lon="-81.325499928">
+    <ele>25.120</ele>
+    <name>BPSHLAF003 (pj)</name>
+    <cmt>20-MAY-05 13:54</cmt>
+    <desc>20-MAY-05 13:54</desc>
+    <sym>Zoo</sym>
+  </wpt>
+  <wpt lat="24.541816609" lon="-81.323649958">
+    <ele>25.120</ele>
+    <name>BPSHLAF004 (pj)</name>
+    <cmt>20-MAY-05 13:56</cmt>
+    <desc>20-MAY-05 13:56</desc>
+    <sym>Zoo</sym>
+  </wpt>
+  <wpt lat="24.578261795" lon="-81.310248552">
+    <ele>-2.037</ele>
+    <name>BPSHLESTLR (pj)</name>
+    <cmt>04-APR-06 14:47</cmt>
+    <desc>04-APR-06 14:47</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.569723317" lon="-81.329577724">
+    <ele>7.095</ele>
+    <name>BPSHLLRGRF (pj)</name>
+    <cmt>27-JUL-05 16:32</cmt>
+    <desc>27-JUL-05 16:32</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.569349987" lon="-81.329966644">
+    <ele>-0.114</ele>
+    <name>BPSHLPTHRF (pj)</name>
+    <cmt>20-OCT-04 18:16</cmt>
+    <desc>20-OCT-04 18:16</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.573537251" lon="-81.321247201">
+    <ele>-15.015</ele>
+    <name>BPSHLWSTMK (pj)</name>
+    <cmt>10-MAY-08 13:52</cmt>
+    <desc>10-MAY-08 13:52</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.569661459" lon="-81.330426056">
+    <ele>-8.045</ele>
+    <name>BPSHLWSTRF (pj)</name>
+    <cmt>20-APR-06 18:31</cmt>
+    <desc>20-APR-06 18:31</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.574852204" lon="-81.318821646">
+    <ele>1.087</ele>
+    <name>BPSLASLLOB (pj)</name>
+    <cmt>10-NOV-07 10:16</cmt>
+    <desc>10-NOV-07 10:16</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.570927043" lon="-81.333412947">
+    <ele>-0.114</ele>
+    <name>BPSLLRGRSS (pj)</name>
+    <cmt>13-MAY-08 12:19</cmt>
+    <desc>13-MAY-08 12:19</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.591333289" lon="-81.377933258">
+    <ele>-0.114</ele>
+    <name>BRADRSHRF (pj)</name>
+    <cmt>20-OCT-04 18:22</cmt>
+    <desc>20-OCT-04 18:22</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.791600019" lon="-83.055830011">
+    <name>BRIDGE RUBBLE1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="32.857635180" lon="-81.541523784">
+    <name>BUCK 06 (pj)</name>
+    <cmt>18-NOV-06 7:44:09AM</cmt>
+    <desc>18-NOV-06 7:44:09AM</desc>
+    <sym>Hunting Area</sym>
+  </wpt>
+  <wpt lat="32.857711455" lon="-81.541210553">
+    <ele>22.236</ele>
+    <name>BUCK 06 10 (pj)</name>
+    <cmt>18-NOV-06 8:41:02AM</cmt>
+    <desc>18-NOV-06 8:41:02AM</desc>
+    <sym>Hunting Area</sym>
+  </wpt>
+  <wpt lat="29.650000026" lon="-83.905166667">
+    <name>Buckeye Reef (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.791666655" lon="-83.057666654">
+    <name>C.R. RF (pj)</name>
+    <cmt>25' Gulf of Mexico</cmt>
+    <desc>25' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.481666695" lon="-82.736500036">
+    <name>CAPTIVA BLUE H (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.563013436" lon="-81.362101352">
+    <ele>-4.921</ele>
+    <name>CHC FALL (pj)</name>
+    <cmt>26-JUL-08 10:44</cmt>
+    <desc>26-JUL-08 10:44</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="25.679066693" lon="-83.027616693">
+    <name>CHICKEN POT PI (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.577316651" lon="-81.310516605">
+    <ele>2.529</ele>
+    <name>Chris G (pj)</name>
+    <cmt>07-MAY-12 9:39:41AM</cmt>
+    <desc>07-MAY-12 9:39:41AM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.819283253" lon="-81.429849928">
+    <ele>-0.114</ele>
+    <name>CNTPASSEST (pj)</name>
+    <cmt>20-OCT-04 18:28</cmt>
+    <desc>20-OCT-04 18:28</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="24.828481050" lon="-81.439914498">
+    <ele>3.010</ele>
+    <name>CNTPASSWST (pj)</name>
+    <cmt>16-FEB-05 11:14</cmt>
+    <desc>16-FEB-05 11:14</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="24.701446015" lon="-81.345241489">
+    <ele>1.808</ele>
+    <name>COLLUM (pj)</name>
+    <cmt>08-JUN-04 10:54</cmt>
+    <desc>08-JUN-04 10:54</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.187466588" lon="-82.154716663">
+    <ele>-44.335</ele>
+    <name>Concrete Pipe (pj)</name>
+    <cmt>31-MAR-10 9:02:15PM</cmt>
+    <desc>31-MAR-10 9:02:15PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.605672965" lon="-81.429199325">
+    <ele>-1.076</ele>
+    <name>CORALGARDN (pj)</name>
+    <cmt>09-FEB-08 15:29</cmt>
+    <desc>09-FEB-08 15:29</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.605675479" lon="-81.429245677">
+    <ele>3.010</ele>
+    <name>CORALGRDN2 (pj)</name>
+    <cmt>26-APR-08 10:08</cmt>
+    <desc>26-APR-08 10:08</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.829585031" lon="-81.439171359">
+    <ele>-0.114</ele>
+    <name>CPASSW2 (pj)</name>
+    <cmt>OCEAN</cmt>
+    <desc>OCEAN</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="28.819449982" lon="-83.160666665">
+    <ele>-2.518</ele>
+    <name>CR SPRING (pj)</name>
+    <cmt>26-JUN-07 11:25</cmt>
+    <desc>26-JUN-07 11:25</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.376194431" lon="-83.734916635">
+    <name>CRACK (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.396972246" lon="-83.712027753">
+    <name>CRACK 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.759666631" lon="-81.518666670">
+    <name>Crain Key Ledg (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.911987701" lon="-82.747575548">
+    <ele>9.258</ele>
+    <name>CRIST RIV (pj)</name>
+    <cmt>26-JUN-07 07:16</cmt>
+    <desc>26-JUN-07 07:16</desc>
+    <sym>Buoy, White</sym>
+  </wpt>
+  <wpt lat="28.293833323" lon="-83.018166684">
+    <name>CT site 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.191666640" lon="-83.059333311">
+    <name>Cty Site 3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.916616691" lon="-82.871499974">
+    <name>Cubes 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.912983304" lon="-82.882849993">
+    <name>Cubes 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.705289453" lon="-81.347815571">
+    <ele>1.087</ele>
+    <name>CULVERT (pj)</name>
+    <cmt>11-AUG-06 09:16</cmt>
+    <desc>11-AUG-06 09:16</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.788399976" lon="-83.058283310">
+    <name>Culverts 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.787899995" lon="-83.058350030">
+    <name>Culverts 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="27.137083327" lon="-83.439850006">
+    <name>DEEP UNDERCOVE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.561383743" lon="-81.338538313">
+    <ele>2.049</ele>
+    <name>DEEPJACOBI (pj)</name>
+    <cmt>05-AUG-05 11:17</cmt>
+    <desc>05-AUG-05 11:17</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.690099936" lon="-81.385699930">
+    <ele>-0.114</ele>
+    <name>DEEPSCRTSP (pj)</name>
+    <cmt>20-OCT-04 21:02</cmt>
+    <desc>20-OCT-04 21:02</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="29.321999978" lon="-83.367666649">
+    <name>Dixie rf 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.328833325" lon="-83.356500026">
+    <name>Dixie rf 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.247301174" lon="-81.395205511">
+    <ele>-2.998</ele>
+    <name>DOLHPIN O3 (pj)</name>
+    <cmt>11-JUN-04 09:32</cmt>
+    <desc>11-JUN-04 09:32</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.221723797" lon="-81.459543491">
+    <ele>-0.114</ele>
+    <name>DOLPHIN 01 (pj)</name>
+    <cmt>07-JUN-04 11:10</cmt>
+    <desc>07-JUN-04 11:10</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.295651512" lon="-81.439032722">
+    <ele>-0.355</ele>
+    <name>DOLPHIN 02 (pj)</name>
+    <cmt>10-JUN-04 08:56</cmt>
+    <desc>10-JUN-04 08:56</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.257175894" lon="-81.435799235">
+    <ele>-1.556</ele>
+    <name>DOLPHIN 04 (pj)</name>
+    <cmt>12-JUN-04 08:03</cmt>
+    <desc>12-JUN-04 08:03</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.691053713" lon="-81.386840455">
+    <ele>2.049</ele>
+    <name>DOUBLEBOAT (pj)</name>
+    <cmt>18-FEB-06 09:25</cmt>
+    <desc>18-FEB-06 09:25</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="29.003004776" lon="-81.672394043">
+    <ele>23.438</ele>
+    <name>DRIFTAWAY (pj)</name>
+    <cmt>26-JUN-03 08:55</cmt>
+    <desc>26-JUN-03 08:55</desc>
+    <sym>Residence</sym>
+  </wpt>
+  <wpt lat="28.810287053" lon="-81.815176746">
+    <ele>4.452</ele>
+    <name>DUCK HARRS (pj)</name>
+    <cmt>20-JAN-06 04:29</cmt>
+    <desc>20-JAN-06 04:29</desc>
+    <sym>Hunting Area</sym>
+  </wpt>
+  <wpt lat="24.553133268" lon="-81.379600000">
+    <ele>-2.037</ele>
+    <name>EASTLOOPR (pj)</name>
+    <cmt>23-OCT-04 22:48</cmt>
+    <desc>23-OCT-04 22:48</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.375972226" lon="-83.734555542">
+    <name>EASY RIDER SPG (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.990527751" lon="-83.921861071">
+    <name>ECONFINA SPRIN (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.703987744" lon="-81.347303186">
+    <ele>1.328</ele>
+    <name>ENGIN BLK (pj)</name>
+    <cmt>27-JUL-07 15:20</cmt>
+    <desc>27-JUL-07 15:20</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.903069776" lon="-81.820665468">
+    <ele>29.927</ele>
+    <name>FAR RAMP (pj)</name>
+    <cmt>25-SEP-04 02:26</cmt>
+    <desc>25-SEP-04 02:26</desc>
+    <sym>Boat Ramp</sym>
+  </wpt>
+  <wpt lat="26.800876306" lon="-80.054638116">
+    <ele>8.057</ele>
+    <name>FL FREDVRS (pj)</name>
+    <cmt>11-OCT-06 14:31</cmt>
+    <desc>11-OCT-06 14:31</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.902776157" lon="-82.634475930">
+    <ele>22.476</ele>
+    <name>FQRT ISLAN (pj)</name>
+    <cmt>26-JUN-07 15:30</cmt>
+    <desc>26-JUN-07 15:30</desc>
+    <sym>Boat Ramp</sym>
+  </wpt>
+  <wpt lat="29.991666684" lon="-83.923333352">
+    <name>FRESHWATER CAV (pj)</name>
+    <cmt>Apalachee Bay</cmt>
+    <desc>Apalachee Bay</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.557927297" lon="-81.335682012">
+    <ele>7.576</ele>
+    <name>G DEEP 70+ (pj)</name>
+    <cmt>29-JUL-06 13:41</cmt>
+    <desc>29-JUL-06 13:41</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.569315957" lon="-81.329531539">
+    <ele>29999.520</ele>
+    <name>G GRUNTS (pj)</name>
+    <cmt>01-JUN-06 16:26</cmt>
+    <desc>01-JUN-06 16:26</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.568131929" lon="-81.325350394">
+    <ele>2.529</ele>
+    <name>G MARKER (pj)</name>
+    <cmt>06-JUN-04 16:14</cmt>
+    <desc>06-JUN-04 16:14</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.604166666" lon="-83.002499985">
+    <name>G. Btm. 11 (pj)</name>
+    <cmt>26' Gulf of Mexico</cmt>
+    <desc>26' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.627333324" lon="-83.193333372">
+    <name>G. Btm. 10 (pj)</name>
+    <cmt>48' Gulf of Mexico</cmt>
+    <desc>48' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.581333356" lon="-82.933666706">
+    <name>G. Btm. 12 (pj)</name>
+    <cmt>13' Gulf of Mexico</cmt>
+    <desc>13' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.241666704" lon="-83.034999976">
+    <name>G. Btm. 13 (pj)</name>
+    <cmt>33' Gulf of Mexico</cmt>
+    <desc>33' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.218333330" lon="-83.033333318">
+    <name>G. Btm. 14 (pj)</name>
+    <cmt>35' Gulf of Mexico</cmt>
+    <desc>35' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.761999998" lon="-83.289666669">
+    <name>G. Btm. 3 (pj)</name>
+    <cmt>48' Gulf of Mexico</cmt>
+    <desc>48' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.758333335" lon="-83.191666631">
+    <name>G. Btm. 4 (pj)</name>
+    <cmt>39' Gulf of Mexico</cmt>
+    <desc>39' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.744999990" lon="-82.860000003">
+    <name>G. Btm. 5 (pj)</name>
+    <cmt>6' Gulf of Mexico</cmt>
+    <desc>6' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.695666706" lon="-82.859333307">
+    <name>G. Btm. 6 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.683333322" lon="-83.191166651">
+    <name>G. Btm. 7 (pj)</name>
+    <cmt>44' Gulf of Mexico</cmt>
+    <desc>44' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.670666674" lon="-83.093333328">
+    <name>G. Btm. 8 (pj)</name>
+    <cmt>30' Gulf of Mexico</cmt>
+    <desc>30' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.638666663" lon="-83.109166659">
+    <name>G. Btm. 9 (pj)</name>
+    <cmt>34' Gulf of Mexico</cmt>
+    <desc>34' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.787666643" lon="-83.616666673">
+    <name>G. Btm.2 (pj)</name>
+    <cmt>72' Gulf of Mexico</cmt>
+    <desc>72' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.504666686" lon="-83.016666658">
+    <name>G. Ledge (pj)</name>
+    <cmt>30' Gulf of Mexico</cmt>
+    <desc>30' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.434000034" lon="-83.166666683">
+    <name>G. Ledge 2 (pj)</name>
+    <cmt>45' Gulf of Mexico</cmt>
+    <desc>45' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.660000032" lon="-83.075000010">
+    <name>G. Rks (pj)</name>
+    <cmt>32' Gulf of Mexico</cmt>
+    <desc>32' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="38.855549991" lon="-94.799016668">
+    <ele>325.049</ele>
+    <name>GARMIN (pj)</name>
+    <cmt>GARMIN</cmt>
+    <desc>GARMIN</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="50.982883293" lon="-1.463899976">
+    <ele>35.935</ele>
+    <name>Garmin Europe (pj)</name>
+    <cmt>Garmin Europe</cmt>
+    <desc>Garmin Europe</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="25.061783362" lon="121.640266674">
+    <ele>38.098</ele>
+    <name>Garmin Taiwan (pj)</name>
+    <cmt>Garmin Taiwan</cmt>
+    <desc>Garmin Taiwan</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="26.199944392" lon="-81.389972186">
+    <ele>3.010</ele>
+    <name>GATORHL 38 (pj)</name>
+    <cmt>09-MAY-07 11:10</cmt>
+    <desc>09-MAY-07 11:10</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="26.161241373" lon="-81.388509208">
+    <ele>-6.363</ele>
+    <name>Ghost Orchid 1 (pj)</name>
+    <cmt>11-JUL-09 12:02:33PM</cmt>
+    <desc>11-JUL-09 12:02:33PM</desc>
+    <sym>Light</sym>
+  </wpt>
+  <wpt lat="26.160718091" lon="-81.386828385">
+    <ele>-59.956</ele>
+    <name>Go Tram (pj)</name>
+    <cmt>09-AUG-09 11:41:48AM</cmt>
+    <desc>09-AUG-09 11:41:48AM</desc>
+    <sym>Light</sym>
+  </wpt>
+  <wpt lat="28.864333313" lon="-82.754999986">
+    <name>Gomez Rk (pj)</name>
+    <cmt>2' Gulf of Mexico</cmt>
+    <desc>2' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.888333300" lon="-83.166666683">
+    <name>Good BTM (pj)</name>
+    <cmt>26' Gulf of Mexico</cmt>
+    <desc>26' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.869833350" lon="-83.157166634">
+    <name>Good RF 2 (pj)</name>
+    <cmt>34' Gulf of Mexico</cmt>
+    <desc>34' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.743050024" lon="-82.932099961">
+    <name>GREAT BTM (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.612538666" lon="-81.425110130">
+    <ele>0.126</ele>
+    <name>GregSpot (pj)</name>
+    <cmt>17-JUL-11 12:09:10PM</cmt>
+    <desc>17-JUL-11 12:09:10PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="50.982883293" lon="-1.463899976">
+    <ele>35.935</ele>
+    <name>GRMEUR (pj)</name>
+    <cmt>GRMEUR</cmt>
+    <desc>GRMEUR</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="25.061783362" lon="121.640266674">
+    <ele>38.098</ele>
+    <name>GRMTWN (pj)</name>
+    <cmt>GRMTWN</cmt>
+    <desc>GRMTWN</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="28.791600019" lon="-83.055833364">
+    <name>Haven 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.790983362" lon="-83.056683373">
+    <name>Haven 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.788566692" lon="-83.057933366">
+    <name>Haven 3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.789666649" lon="-83.059116639">
+    <name>Haven 4 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.788866680" lon="-83.058799971">
+    <name>Haven 5 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.884999985" lon="-82.828333341">
+    <name>Haven 6 (pj)</name>
+    <cmt>14' Gulf of Mexico</cmt>
+    <desc>14' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.786666682" lon="-83.058333350">
+    <name>Haven 7 (pj)</name>
+    <cmt>27' Gulf of Mexico</cmt>
+    <desc>27' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.584591556" lon="-81.320609087">
+    <ele>4.932</ele>
+    <name>HAWK 1 26 (pj)</name>
+    <cmt>21-JUL-07 13:51</cmt>
+    <desc>21-JUL-07 13:51</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.586593155" lon="-81.312988428">
+    <ele>4.932</ele>
+    <name>HAWK 2 28 (pj)</name>
+    <cmt>21-JUL-07 15:11</cmt>
+    <desc>21-JUL-07 15:11</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.601052022" lon="-81.330725374">
+    <ele>1.087</ele>
+    <name>HAWK 3 28 (pj)</name>
+    <cmt>06-AUG-08 12:01</cmt>
+    <desc>06-AUG-08 12:01</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.561000019" lon="-81.502833338">
+    <name>Hawk Hump 11 f (pj)</name>
+    <cmt>Atlantic</cmt>
+    <desc>Atlantic</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.567166669" lon="-81.459000008">
+    <name>Hawk Ledge 18 (pj)</name>
+    <cmt>Atlantic</cmt>
+    <desc>Atlantic</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.586383272" lon="-81.356383301">
+    <ele>25.120</ele>
+    <name>HCKCNLHD2 (pj)</name>
+    <cmt>20-MAY-05 13:25</cmt>
+    <desc>20-MAY-05 13:25</desc>
+    <sym>Zoo</sym>
+  </wpt>
+  <wpt lat="24.632263631" lon="-81.314210929">
+    <ele>1.568</ele>
+    <name>HEADS 1 (pj)</name>
+    <cmt>27-JUL-06 11:17</cmt>
+    <desc>27-JUL-06 11:17</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.642098453" lon="-81.298632408">
+    <ele>-0.355</ele>
+    <name>HEADS 16+1 (pj)</name>
+    <cmt>07-AUG-06 08:46</cmt>
+    <desc>07-AUG-06 08:46</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.641769715" lon="-81.299046557">
+    <ele>-1.556</ele>
+    <name>HEADS 16+2 (pj)</name>
+    <cmt>07-AUG-06 10:58</cmt>
+    <desc>07-AUG-06 10:58</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.641152471" lon="-81.299067931">
+    <ele>-2.037</ele>
+    <name>HEADS 16+3 (pj)</name>
+    <cmt>07-AUG-06 11:12</cmt>
+    <desc>07-AUG-06 11:12</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.641384566" lon="-81.299800510">
+    <ele>-0.835</ele>
+    <name>HEADS 16+4 (pj)</name>
+    <cmt>07-AUG-06 11:30</cmt>
+    <desc>07-AUG-06 11:30</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.640231300" lon="-81.302899802">
+    <ele>1.568</ele>
+    <name>HEADS 16+5 (pj)</name>
+    <cmt>07-AUG-06 12:54</cmt>
+    <desc>07-AUG-06 12:54</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.630397651" lon="-81.319283405">
+    <ele>-0.835</ele>
+    <name>HEADS 16+6 (pj)</name>
+    <cmt>06-AUG-07 07:31</cmt>
+    <desc>06-AUG-07 07:31</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.639819413" lon="-81.303520314">
+    <ele>2.529</ele>
+    <name>HEADS 16+7 (pj)</name>
+    <cmt>06-AUG-07 09:50</cmt>
+    <desc>06-AUG-07 09:50</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.632634111" lon="-81.313430741">
+    <ele>1.808</ele>
+    <name>HEADS 2 (pj)</name>
+    <cmt>27-JUL-06 09:23</cmt>
+    <desc>27-JUL-06 09:23</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.632351641" lon="-81.308795717">
+    <ele>1.328</ele>
+    <name>HEADS 3 (pj)</name>
+    <cmt>27-JUL-06 06:32</cmt>
+    <desc>27-JUL-06 06:32</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.607333349" lon="-82.941999994">
+    <name>Hernando RF (pj)</name>
+    <cmt>21' Gulf of Mexico</cmt>
+    <desc>21' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.640975697" lon="-81.314744689">
+    <ele>-0.835</ele>
+    <name>HOLES 10+1 (pj)</name>
+    <cmt>08-AUG-06 11:57</cmt>
+    <desc>08-AUG-06 11:57</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.640822476" lon="-81.314931773">
+    <ele>-0.835</ele>
+    <name>HOLES 10+2 (pj)</name>
+    <cmt>08-AUG-06 11:06</cmt>
+    <desc>08-AUG-06 11:06</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.638055107" lon="-81.312291557">
+    <ele>-0.595</ele>
+    <name>HOLES 10+3 (pj)</name>
+    <cmt>09-AUG-06 08:07</cmt>
+    <desc>09-AUG-06 08:07</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.693833333" lon="-83.001666656">
+    <name>Homa RF 1 (pj)</name>
+    <cmt>22' Gulf of Mexico</cmt>
+    <desc>22' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.730833316" lon="-82.991666626">
+    <name>Homa Rf2 (pj)</name>
+    <cmt>20' Gulf of Mexico</cmt>
+    <desc>20' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.694565073" lon="-82.858903483">
+    <ele>-1.797</ele>
+    <name>HOMA RK 1 (pj)</name>
+    <cmt>08-SEP-07 08:42</cmt>
+    <desc>08-SEP-07 08:42</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="29.330833331" lon="-83.436000030">
+    <name>Horseshoe rf (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.004894225" lon="-81.655212482">
+    <ele>-85.671</ele>
+    <name>HOUSE (pj)</name>
+    <cmt>19-JAN-06 11:22</cmt>
+    <desc>19-JAN-06 11:22</desc>
+    <sym>Residence</sym>
+  </wpt>
+  <wpt lat="24.584716614" lon="-81.394433286">
+    <ele>25.120</ele>
+    <name>HWKCNLHD1 (pj)</name>
+    <cmt>20-MAY-05 13:21</cmt>
+    <desc>20-MAY-05 13:21</desc>
+    <sym>Zoo</sym>
+  </wpt>
+  <wpt lat="26.187099963" lon="-82.156899981">
+    <ele>-43.614</ele>
+    <name>IsabellaSHMPB (pj)</name>
+    <cmt>31-MAR-10 8:59:47PM</cmt>
+    <desc>31-MAR-10 8:59:47PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.574961672" lon="-81.316940077">
+    <ele>-3.960</ele>
+    <name>JACOBIREEF (pj)</name>
+    <cmt>27-JUL-05 11:49</cmt>
+    <desc>27-JUL-05 11:49</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.429333325" lon="-82.708833301">
+    <name>JEWFISH HOLE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.607333349" lon="-82.941166665">
+    <name>Jim Champ RF (pj)</name>
+    <cmt>19' Gulf of Mexico</cmt>
+    <desc>19' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.361277744" lon="-83.956138864">
+    <name>JOHN'S HOLE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.358194461" lon="-83.960611112">
+    <name>JOHN'S HOLE 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.610599931" lon="-81.403516587">
+    <ele>-1.076</ele>
+    <name>JSONHOGSPT (pj)</name>
+    <cmt>13-NOV-04 10:43</cmt>
+    <desc>13-NOV-04 10:43</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.595999997" lon="-81.456666654">
+    <name>Key Lois ledge (pj)</name>
+    <cmt>Atlantic</cmt>
+    <desc>Atlantic</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.700066019" lon="-81.349730920">
+    <ele>18.631</ele>
+    <name>KEYS HOUSB (pj)</name>
+    <cmt>11-MAY-04 14:53</cmt>
+    <desc>11-MAY-04 14:53</desc>
+    <sym>Residence</sym>
+  </wpt>
+  <wpt lat="24.631086476" lon="-81.319658915">
+    <ele>0.847</ele>
+    <name>KIM LOB+1 (pj)</name>
+    <cmt>10-AUG-06 09:22</cmt>
+    <desc>10-AUG-06 09:22</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.630567050" lon="-81.318874368">
+    <ele>1.087</ele>
+    <name>KIM LOB+2 (pj)</name>
+    <cmt>10-AUG-06 09:49</cmt>
+    <desc>10-AUG-06 09:49</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.630664364" lon="-81.318437504">
+    <ele>0.847</ele>
+    <name>KIM LOB+3 (pj)</name>
+    <cmt>10-AUG-06 09:59</cmt>
+    <desc>10-AUG-06 09:59</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.630649444" lon="-81.318860538">
+    <ele>0.607</ele>
+    <name>KIM LOB+4 (pj)</name>
+    <cmt>10-AUG-06 10:11</cmt>
+    <desc>10-AUG-06 10:11</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.632624220" lon="-81.317055663">
+    <ele>1.328</ele>
+    <name>KIM LOB+5 (pj)</name>
+    <cmt>11-AUG-06 08:07</cmt>
+    <desc>11-AUG-06 08:07</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.632269582" lon="-81.316280924">
+    <ele>0.847</ele>
+    <name>KIM LOB+6 (pj)</name>
+    <cmt>11-AUG-06 08:26</cmt>
+    <desc>11-AUG-06 08:26</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.631854594" lon="-81.316564400">
+    <ele>2.049</ele>
+    <name>KIM LOB+7 (pj)</name>
+    <cmt>10-AUG-06 10:39</cmt>
+    <desc>10-AUG-06 10:39</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.628231013" lon="-81.326646321">
+    <ele>4.211</ele>
+    <name>KIM WEST 1 (pj)</name>
+    <cmt>06-AUG-07 11:28</cmt>
+    <desc>06-AUG-07 11:28</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.628023226" lon="-81.325307060">
+    <ele>1.568</ele>
+    <name>KIM WEST 2 (pj)</name>
+    <cmt>06-AUG-07 10:04</cmt>
+    <desc>06-AUG-07 10:04</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.709130041" lon="-81.109611858">
+    <ele>7.336</ele>
+    <name>KIMS HOUSE (pj)</name>
+    <cmt>11-MAY-04 16:21</cmt>
+    <desc>11-MAY-04 16:21</desc>
+    <sym>Residence</sym>
+  </wpt>
+  <wpt lat="24.445305364" lon="-81.961936494">
+    <ele>27.043</ele>
+    <name>KWSWEETPR (pj)</name>
+    <cmt>26-MAY-06 15:58</cmt>
+    <desc>26-MAY-06 15:58</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.443666656" lon="-83.843666632">
+    <name>LAMB SPG (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.769764729" lon="-81.498764595">
+    <ele>3.010</ele>
+    <name>LCRNCRLHD1 (pj)</name>
+    <cmt>16-FEB-05 11:50</cmt>
+    <desc>16-FEB-05 11:50</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.769419227" lon="-81.495529013">
+    <ele>1.087</ele>
+    <name>LCRNCRLHD2 (pj)</name>
+    <cmt>16-FEB-05 11:54</cmt>
+    <desc>16-FEB-05 11:54</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.769545710" lon="-81.495703524">
+    <ele>1.087</ele>
+    <name>LCRNCRLHD3 (pj)</name>
+    <cmt>16-FEB-05 11:54</cmt>
+    <desc>16-FEB-05 11:54</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.885833314" lon="-83.169166669">
+    <name>Ledge 2W (pj)</name>
+    <cmt>33' Gulf of Mexico</cmt>
+    <desc>33' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.730035262" lon="-81.331029218">
+    <ele>2.049</ele>
+    <name>LEDGE ISL (pj)</name>
+    <cmt>16-JUL-08 15:06</cmt>
+    <desc>16-JUL-08 15:06</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.929666644" lon="-83.374333363">
+    <name>Ledge W (pj)</name>
+    <cmt>55' Gulf of Mexico</cmt>
+    <desc>55' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.368333355" lon="-83.141666651">
+    <name>Ledge/Rk. (pj)</name>
+    <cmt>40' Gulf of Mexico</cmt>
+    <desc>40' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.694601269" lon="-81.343034953">
+    <ele>9.499</ele>
+    <name>LEDGES LOB (pj)</name>
+    <cmt>27-JUL-06 13:21</cmt>
+    <desc>27-JUL-06 13:21</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.893895363" lon="-81.816919344">
+    <ele>31.369</ele>
+    <name>LEVE HOUSE (pj)</name>
+    <cmt>25-SEP-04 02:20</cmt>
+    <desc>25-SEP-04 02:20</desc>
+    <sym>Flag, Blue</sym>
+  </wpt>
+  <wpt lat="24.619066659" lon="-81.407149974">
+    <ele>-2.037</ele>
+    <name>LILPLMMRKR (pj)</name>
+    <cmt>23-OCT-04 23:27</cmt>
+    <desc>23-OCT-04 23:27</desc>
+    <sym>Tall Tower</sym>
+  </wpt>
+  <wpt lat="29.606416645" lon="-84.248444410">
+    <name>LIMEROCK (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.789833365" lon="-83.057349985">
+    <name>Lincoln Log 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.789766645" lon="-83.057183353">
+    <name>lincoln Log 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.789249985" lon="-83.057149993">
+    <name>Lincoln Log 3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.789200028" lon="-83.058183314">
+    <name>Lincoln Log 4 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.818483297" lon="-83.163283328">
+    <name>LIVE BTM (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.818950001" lon="-83.162183370">
+    <name>LIVE BTM 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.819016637" lon="-83.162299963">
+    <name>LIVE BTM 3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.693059754" lon="-81.341977827">
+    <ele>1.087</ele>
+    <name>LOB ROCKS (pj)</name>
+    <cmt>26-JUL-06 09:06</cmt>
+    <desc>26-JUL-06 09:06</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.614403807" lon="-81.434035432">
+    <ele>8.057</ele>
+    <name>LOBCAB (pj)</name>
+    <cmt>24-SEP-06 11:05</cmt>
+    <desc>24-SEP-06 11:05</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.614358963" lon="-81.434039203">
+    <ele>7.095</ele>
+    <name>LOBCABINET (pj)</name>
+    <cmt>24-SEP-06 11:24</cmt>
+    <desc>24-SEP-06 11:24</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.615589511" lon="-81.441674447">
+    <ele>-0.114</ele>
+    <name>LOBGRSSLDG (pj)</name>
+    <cmt>22-SEP-06 14:49</cmt>
+    <desc>22-SEP-06 14:49</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.611183312" lon="-81.425683284">
+    <ele>-2.037</ele>
+    <name>LOBSTRHOLE (pj)</name>
+    <cmt>23-OCT-04 22:58</cmt>
+    <desc>23-OCT-04 22:58</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.776049983" lon="-81.529033324">
+    <ele>-2.037</ele>
+    <name>LOBSTRLOAD (pj)</name>
+    <cmt>23-OCT-04 23:17</cmt>
+    <desc>23-OCT-04 23:17</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.623149987" lon="-81.448199926">
+    <ele>-2.037</ele>
+    <name>LOBSTRPIPE (pj)</name>
+    <cmt>23-OCT-04 23:12</cmt>
+    <desc>23-OCT-04 23:12</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.616266601" lon="-81.439733282">
+    <ele>-2.037</ele>
+    <name>LOBSTRTRAP (pj)</name>
+    <cmt>23-OCT-04 23:09</cmt>
+    <desc>23-OCT-04 23:09</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.545287723" lon="-81.401858563">
+    <ele>9.499</ele>
+    <name>LOOE KEY (pj)</name>
+    <cmt>27-JUL-07 11:47</cmt>
+    <desc>27-JUL-07 11:47</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.546199925" lon="-81.403066646">
+    <ele>-2.037</ele>
+    <name>LOOEKYSNTY (pj)</name>
+    <cmt>23-OCT-04 23:21</cmt>
+    <desc>23-OCT-04 23:21</desc>
+    <sym>Tall Tower</sym>
+  </wpt>
+  <wpt lat="24.730267609" lon="-81.310130367">
+    <ele>-9.968</ele>
+    <name>LP EAGLENT (pj)</name>
+    <cmt>22-FEB-07 13:51</cmt>
+    <desc>22-FEB-07 13:51</desc>
+    <sym>Oil Field</sym>
+  </wpt>
+  <wpt lat="24.728539931" lon="-81.313667111">
+    <ele>-2.037</ele>
+    <name>LP ENTRENC (pj)</name>
+    <cmt>22-FEB-07 11:10</cmt>
+    <desc>22-FEB-07 11:10</desc>
+    <sym>Short Tower</sym>
+  </wpt>
+  <wpt lat="24.731427412" lon="-81.313432334">
+    <ele>3.010</ele>
+    <name>LP H2OHOLE (pj)</name>
+    <cmt>22-FEB-07 12:05</cmt>
+    <desc>22-FEB-07 12:05</desc>
+    <sym>Controlled Area</sym>
+  </wpt>
+  <wpt lat="24.563609976" lon="-81.352439951">
+    <ele>1.087</ele>
+    <name>Lrfchumreef (pj)</name>
+    <cmt>15-FEB-09 6:07:19PM</cmt>
+    <desc>15-FEB-09 6:07:19PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.646396358" lon="-81.390887154">
+    <ele>2.049</ele>
+    <name>MARK2LOBSR (pj)</name>
+    <cmt>24-SEP-06 14:28</cmt>
+    <desc>24-SEP-06 14:28</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.508333350" lon="-83.191666631">
+    <name>MEINSNER CRANE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="24.624166628" lon="-81.235166648">
+    <name>Mkr rf 18 ft (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.151149981" lon="-82.207483258">
+    <ele>-43.854</ele>
+    <name>MoniqueSHMPBT (pj)</name>
+    <cmt>31-MAR-10 8:56:16PM</cmt>
+    <desc>31-MAR-10 8:56:16PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.258786945" lon="-81.997956466">
+    <name>MUD HOLE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.621495064" lon="-81.362502594">
+    <ele>2.049</ele>
+    <name>MUNSN HUGE (pj)</name>
+    <cmt>27-JUN-06 19:34</cmt>
+    <desc>27-JUN-06 19:34</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.617799986" lon="-81.380066620">
+    <ele>-2.037</ele>
+    <name>MUNSONRCK1 (pj)</name>
+    <cmt>23-OCT-04 23:34</cmt>
+    <desc>23-OCT-04 23:34</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.617666630" lon="-81.375916656">
+    <ele>-2.037</ele>
+    <name>MUNSONRCK2 (pj)</name>
+    <cmt>23-OCT-04 23:37</cmt>
+    <desc>23-OCT-04 23:37</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.619766632" lon="-81.375683304">
+    <ele>-2.037</ele>
+    <name>MUNSONRCK3 (pj)</name>
+    <cmt>23-OCT-04 23:40</cmt>
+    <desc>23-OCT-04 23:40</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.615816660" lon="-81.370916599">
+    <ele>-2.037</ele>
+    <name>MUNSONREEF (pj)</name>
+    <cmt>23-OCT-04 23:31</cmt>
+    <desc>23-OCT-04 23:31</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.570249952" lon="-81.373783294">
+    <ele>-2.037</ele>
+    <name>MUTTONREEF (pj)</name>
+    <cmt>23-OCT-04 23:49</cmt>
+    <desc>23-OCT-04 23:49</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="25.842833323" lon="-82.151900008">
+    <name>NAPLES BLUE HO (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="25.842716647" lon="-82.151999921">
+    <ele>-43.614</ele>
+    <name>Naples Sink (pj)</name>
+    <cmt>31-MAR-10 8:51:55PM</cmt>
+    <desc>31-MAR-10 8:51:55PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.161899939" lon="-82.208983283">
+    <ele>-43.614</ele>
+    <name>Net Ledge (pj)</name>
+    <cmt>31-MAR-10 8:58:09PM</cmt>
+    <desc>31-MAR-10 8:58:09PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.619166655" lon="-81.370833367">
+    <name>Newfound Hbr p (pj)</name>
+    <cmt>Atlantic</cmt>
+    <desc>Atlantic</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.829585031" lon="-81.439171359">
+    <ele>-0.114</ele>
+    <name>OCEAN (pj)</name>
+    <cmt>OCEAN</cmt>
+    <desc>OCEAN</desc>
+    <sym>Crossing</sym>
+  </wpt>
+  <wpt lat="30.073166694" lon="-84.128333330">
+    <name>OCEAN HOLE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.547833307" lon="-81.457566619">
+    <ele>-2.037</ele>
+    <name>OCNPTCHRF1 (pj)</name>
+    <cmt>23-OCT-04 23:45</cmt>
+    <desc>23-OCT-04 23:45</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.501666706" lon="-81.372500025">
+    <name>Palegic Fish t (pj)</name>
+    <cmt>Atlantic trol</cmt>
+    <desc>Atlantic trol</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.466666644" lon="-81.496666688">
+    <name>Palegic Trol C (pj)</name>
+    <cmt>atlantic trol</cmt>
+    <desc>atlantic trol</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.507166659" lon="-81.422500005">
+    <name>Palegic trol L (pj)</name>
+    <cmt>Atlantic palegic trol</cmt>
+    <desc>Atlantic palegic trol</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.768015090" lon="-81.442047693">
+    <ele>-5.882</ele>
+    <name>PCLOBTANK (pj)</name>
+    <cmt>26-MAY-05 13:48</cmt>
+    <desc>26-MAY-05 13:48</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.579999950" lon="-81.287333267">
+    <ele>0.366</ele>
+    <name>PILLAR PAC (pj)</name>
+    <cmt>05-AUG-06 20:48</cmt>
+    <desc>05-AUG-06 20:48</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.872333337" lon="-83.128666654">
+    <name>Pit (pj)</name>
+    <cmt>34' Gulf of Mexico</cmt>
+    <desc>34' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.003988896" lon="-81.658909908">
+    <ele>28.965</ele>
+    <name>PLUMWOOD (pj)</name>
+    <cmt>26-JUN-03 08:48</cmt>
+    <desc>26-JUN-03 08:48</desc>
+    <sym>Residence</sym>
+  </wpt>
+  <wpt lat="24.767005574" lon="-81.441708729">
+    <ele>3.010</ele>
+    <name>PNECNLLOB1 (pj)</name>
+    <cmt>26-MAY-05 13:54</cmt>
+    <desc>26-MAY-05 13:54</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.763596654" lon="-81.443074560">
+    <ele>3.010</ele>
+    <name>PNECNLWRCK (pj)</name>
+    <cmt>17-MAY-05 12:50</cmt>
+    <desc>17-MAY-05 12:50</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="28.296166677" lon="-83.018166684">
+    <name>Psco Tank 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="28.370999973" lon="-82.949833302">
+    <name>Psco RF 4 (pj)</name>
+    <cmt>23' Gulf of Mexico</cmt>
+    <desc>23' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.283333313" lon="-83.016666658">
+    <name>PSCO Tank 3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="29.748333329" lon="-84.041666631">
+    <name>RAY HOLE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.574773582" lon="-81.290226029">
+    <ele>-0.114</ele>
+    <name>REEF (pj)</name>
+    <cmt>06-JUN-04 15:44</cmt>
+    <desc>06-JUN-04 15:44</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.577507172" lon="-81.301522236">
+    <ele>0.126</ele>
+    <name>REEF 26FT (pj)</name>
+    <cmt>01-JUN-06 12:30</cmt>
+    <desc>01-JUN-06 12:30</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.576722542" lon="-81.303816866">
+    <ele>0.847</ele>
+    <name>REEF 30FT (pj)</name>
+    <cmt>01-JUN-06 12:51</cmt>
+    <desc>01-JUN-06 12:51</desc>
+    <sym>Swimming Area</sym>
+  </wpt>
+  <wpt lat="24.559600325" lon="-81.337670116">
+    <ele>-2.998</ele>
+    <name>REEF DEEP (pj)</name>
+    <cmt>06-JUN-04 14:01</cmt>
+    <desc>06-JUN-04 14:01</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.568030927" lon="-81.332888994">
+    <ele>1.328</ele>
+    <name>REEF G MKR (pj)</name>
+    <cmt>08-JUN-04 08:56</cmt>
+    <desc>08-JUN-04 08:56</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="24.561733352" lon="-81.366255088">
+    <ele>-0.595</ele>
+    <name>REEF RK 2 (pj)</name>
+    <cmt>31-JUL-08 11:03</cmt>
+    <desc>31-JUL-08 11:03</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.560431056" lon="-81.361519229">
+    <ele>2.049</ele>
+    <name>REEF RK 25 (pj)</name>
+    <cmt>09-AUG-07 13:27</cmt>
+    <desc>09-AUG-07 13:27</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.559864355" lon="-81.364700329">
+    <ele>9.018</ele>
+    <name>REEF RK 3 (pj)</name>
+    <cmt>31-JUL-08 09:48</cmt>
+    <desc>31-JUL-08 09:48</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.560832800" lon="-81.363525521">
+    <ele>-0.835</ele>
+    <name>REEF RK 4 (pj)</name>
+    <cmt>30-JUL-08 14:23</cmt>
+    <desc>30-JUL-08 14:23</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.582820712" lon="-81.289203186">
+    <ele>2.049</ele>
+    <name>RF 30 1 (pj)</name>
+    <cmt>21-JUL-08 08:23</cmt>
+    <desc>21-JUL-08 08:23</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.585749097" lon="-81.292966912">
+    <ele>2.289</ele>
+    <name>RF 30 2 (pj)</name>
+    <cmt>20-JUL-08 09:32</cmt>
+    <desc>20-JUL-08 09:32</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.585792264" lon="-81.291796044">
+    <ele>29999.520</ele>
+    <name>RF 30 3 (pj)</name>
+    <cmt>20-JUL-08 11:03</cmt>
+    <desc>20-JUL-08 11:03</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.585366966" lon="-81.291263374">
+    <ele>29999.520</ele>
+    <name>RF 30 4 (pj)</name>
+    <cmt>20-JUL-08 12:23</cmt>
+    <desc>20-JUL-08 12:23</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.582309583" lon="-81.279921569">
+    <ele>3.250</ele>
+    <name>RF 30 5 (pj)</name>
+    <cmt>07-AUG-08 11:58</cmt>
+    <desc>07-AUG-08 11:58</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.584921468" lon="-81.278103115">
+    <ele>2.529</ele>
+    <name>RF 30 6 (pj)</name>
+    <cmt>07-AUG-08 12:37</cmt>
+    <desc>07-AUG-08 12:37</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.323833352" lon="-83.441166636">
+    <name>Rf Ball (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.579697866" lon="-81.291753044">
+    <ele>-0.595</ele>
+    <name>RF RED 30 (pj)</name>
+    <cmt>21-JUL-08 12:21</cmt>
+    <desc>21-JUL-08 12:21</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.524833294" lon="-82.917833375">
+    <name>Richardson RF (pj)</name>
+    <cmt>13' Gulf of Mexico</cmt>
+    <desc>13' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.900601976" lon="-81.810180210">
+    <ele>18.151</ele>
+    <name>RINGERS (pj)</name>
+    <cmt>28-NOV-04 04:54</cmt>
+    <desc>28-NOV-04 04:54</desc>
+    <sym>Hunting Area</sym>
+  </wpt>
+  <wpt lat="28.309849966" lon="-83.245216683">
+    <name>RJ THOMPSON RK (pj)</name>
+    <cmt>Withlacoochee River</cmt>
+    <desc>Withlacoochee River</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="28.865000010" lon="-83.160833297">
+    <name>RK Pile (pj)</name>
+    <cmt>34' Gulf of Mexico</cmt>
+    <desc>34' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.815533370" lon="-82.883783318">
+    <name>ROCK1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.814700041" lon="-82.884699963">
+    <name>ROCK2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.814550005" lon="-82.883683322">
+    <name>ROCK3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.811499998" lon="-82.883749958">
+    <name>ROCK4 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.805766692" lon="-82.884633327">
+    <name>ROCK5 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.560480341" lon="-81.361686196">
+    <ele>-0.114</ele>
+    <name>ROCKYLRPTR (pj)</name>
+    <cmt>10-NOV-06 12:36</cmt>
+    <desc>10-NOV-06 12:36</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.786716638" lon="-83.060983373">
+    <name>Rubble 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.865000010" lon="-82.831666656">
+    <name>Rubble 2W (pj)</name>
+    <cmt>9' Gulf of Mexico</cmt>
+    <desc>9' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.785616681" lon="-83.061083369">
+    <name>Rubble 3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.787649963" lon="-83.059483347">
+    <name>RUBLE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.646000015" lon="-83.907333305">
+    <name>Scrap Steel 60 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.689783268" lon="-81.384516656">
+    <ele>7.095</ele>
+    <name>SCRTSPOT1 (pj)</name>
+    <cmt>24-OCT-04 09:54</cmt>
+    <desc>24-OCT-04 09:54</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.975000000" lon="-83.153333338">
+    <name>Seahorse Rf (pj)</name>
+    <cmt>9' Gulf of Mexico</cmt>
+    <desc>9' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.605499962" lon="-81.166666634">
+    <name>Seven Mile Ree (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.624783285" lon="-81.360778855">
+    <ele>2.049</ele>
+    <name>SHALLONEIL (pj)</name>
+    <cmt>06-JUN-06 18:09</cmt>
+    <desc>06-JUN-06 18:09</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="25.839666640" lon="-82.247349937">
+    <ele>-42.893</ele>
+    <name>Shrimp Boat (pj)</name>
+    <cmt>31-MAR-10 8:49:37PM</cmt>
+    <desc>31-MAR-10 8:49:37PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.569239346" lon="-81.381904017">
+    <ele>2.529</ele>
+    <name>SNAP LOOE (pj)</name>
+    <cmt>29-JUL-08 12:13</cmt>
+    <desc>29-JUL-08 12:13</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.552527759" lon="-81.381541416">
+    <ele>6.374</ele>
+    <name>SNAPPER 1 (pj)</name>
+    <cmt>27-JUL-07 12:30</cmt>
+    <desc>27-JUL-07 12:30</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.132304912" lon="-80.255409339">
+    <ele>53.479</ele>
+    <name>SNAPPER 1 (pj)</name>
+    <cmt>21-JUN-08 10:41:43AM</cmt>
+    <desc>21-JUN-08 10:41:43AM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.131578704" lon="-80.255815359">
+    <ele>53.959</ele>
+    <name>SNAPPER 1A (pj)</name>
+    <cmt>21-JUN-08 10:40:15AM</cmt>
+    <desc>21-JUN-08 10:40:15AM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.112406023" lon="-80.251397844">
+    <ele>36.896</ele>
+    <name>SNAPPER 2 (pj)</name>
+    <cmt>21-JUN-08 11:37:37AM</cmt>
+    <desc>21-JUN-08 11:37:37AM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.111779308" lon="-80.251073968">
+    <ele>37.377</ele>
+    <name>SNAPPER 2A (pj)</name>
+    <cmt>21-JUN-08 11:36:32AM</cmt>
+    <desc>21-JUN-08 11:36:32AM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.118724721" lon="-80.247462625">
+    <ele>18.871</ele>
+    <name>SNAPPER 3 (pj)</name>
+    <cmt>21-JUN-08 12:28:02PM</cmt>
+    <desc>21-JUN-08 12:28:02PM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.159883637" lon="-80.233608931">
+    <ele>25.841</ele>
+    <name>SNAPPER 4 (pj)</name>
+    <cmt>21-JUN-08 1:37:20PM</cmt>
+    <desc>21-JUN-08 1:37:20PM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.159279721" lon="-80.233476162">
+    <ele>25.841</ele>
+    <name>SNAPPER 4A (pj)</name>
+    <cmt>21-JUN-08 1:35:52PM</cmt>
+    <desc>21-JUN-08 1:35:52PM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="0.000000084" lon="0.000000000">
+    <ele>20.313</ele>
+    <name>SNAPPER 5 (pj)</name>
+    <cmt>21-JUN-08 2:22:50PM</cmt>
+    <desc>21-JUN-08 2:22:50PM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.159998637" lon="-80.233587306">
+    <ele>20.554</ele>
+    <name>SNAPPER 5A (pj)</name>
+    <cmt>21-JUN-08 2:22:07PM</cmt>
+    <desc>21-JUN-08 2:22:07PM</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="28.818266708" lon="-83.162900023">
+    <name>SPRING 1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.460555520" lon="-83.992499979">
+    <name>SPRING 1 BIG B (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.818866685" lon="-83.162050014">
+    <name>SPRING 2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.460833296" lon="-83.992499979">
+    <name>SPRING 2 BIG B (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.894444486" lon="-83.880277779">
+    <name>SPRING 22 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.819366666" lon="-83.161950018">
+    <name>SPRING 3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.444388924" lon="-83.843999980">
+    <name>SPRING 3 BIG B (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.819733374" lon="-83.160600029">
+    <name>SPRING 4 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.574685069" lon="-81.287225727">
+    <ele>-1.076</ele>
+    <name>SPUR 30 1 (pj)</name>
+    <cmt>17-JUL-08 10:46</cmt>
+    <desc>17-JUL-08 10:46</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.574585408" lon="-81.287574917">
+    <ele>2.770</ele>
+    <name>SPUR 32 2 (pj)</name>
+    <cmt>03-AUG-08 13:01</cmt>
+    <desc>03-AUG-08 13:01</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.335000034" lon="-82.808333365">
+    <name>St. Martin Rf (pj)</name>
+    <cmt>8' Gulf of Mexico</cmt>
+    <desc>8' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.541666670" lon="-82.786666648">
+    <name>St. Martins Rf (pj)</name>
+    <cmt>8' Gulf of Mexico</cmt>
+    <desc>8' Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.700114718" lon="-81.344867321">
+    <ele>0.366</ele>
+    <name>STACK (pj)</name>
+    <cmt>08-JUN-04 10:22</cmt>
+    <desc>08-JUN-04 10:22</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="26.073566666" lon="-82.314949986">
+    <ele>-43.854</ele>
+    <name>StacyannSHMPBT (pj)</name>
+    <cmt>31-MAR-10 8:54:05PM</cmt>
+    <desc>31-MAR-10 8:54:05PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.664166700" lon="-83.630166650">
+    <name>STEINHATCHEE R (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.612333346" lon="-84.001055555">
+    <name>STEINHATCHEE S (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.380166698" lon="-83.761166660">
+    <name>SUPER LEDGE (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.306333363" lon="-83.505666638">
+    <name>Suwannee Rf 1H (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.252166655" lon="-83.494833363">
+    <name>Suwannee rf 2G (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.348166687" lon="-83.529666625">
+    <name>Suwannee rf1 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="29.234166685" lon="-83.532166695">
+    <name>Suwannee rf3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.703757660" lon="-81.346361814">
+    <ele>4.692</ele>
+    <name>T POLE HOL (pj)</name>
+    <cmt>07-JUL-08 12:27</cmt>
+    <desc>07-JUL-08 12:27</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.895278042" lon="-81.823252710">
+    <ele>16.468</ele>
+    <name>TEAL HOLE (pj)</name>
+    <cmt>25-SEP-04 03:47</cmt>
+    <desc>25-SEP-04 03:47</desc>
+    <sym>Hunting Area</sym>
+  </wpt>
+  <wpt lat="24.576173779" lon="-81.289578611">
+    <ele>2.770</ele>
+    <name>TIP REEF (pj)</name>
+    <cmt>02-AUG-08 14:52</cmt>
+    <desc>02-AUG-08 14:52</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="27.195550036" lon="-83.566666692">
+    <name>TOP CAP (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="25.800099950" lon="-82.216433287">
+    <ele>-42.412</ele>
+    <name>Tower R (pj)</name>
+    <cmt>31-MAR-10 8:46:08PM</cmt>
+    <desc>31-MAR-10 8:46:08PM</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.573254110" lon="-81.286749132">
+    <ele>2.049</ele>
+    <name>TRIPLE RF (pj)</name>
+    <cmt>03-AUG-08 12:45</cmt>
+    <desc>03-AUG-08 12:45</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.808989773" lon="-81.436432404">
+    <ele>2.049</ele>
+    <name>UH SUNKTRS (pj)</name>
+    <cmt>11-AUG-06 12:50</cmt>
+    <desc>11-AUG-06 12:50</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.871000027" lon="-82.957116673">
+    <name>UNK BTM (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.876650017" lon="-82.955799960">
+    <name>UNK BTM2 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.880916657" lon="-82.954816679">
+    <name>UNK BTM3 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.885566685" lon="-82.953800038">
+    <name>UNK BTM4 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.797366684" lon="-83.095833315">
+    <name>UNK BTM5 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="28.796716668" lon="-83.097583372">
+    <name>UNK BTM6 (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.558794405" lon="-81.333837323">
+    <ele>3.971</ele>
+    <name>WALKRDPDRP (pj)</name>
+    <cmt>03-SEP-05 14:33</cmt>
+    <desc>03-SEP-05 14:33</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+  <wpt lat="29.168166658" lon="-83.649833361">
+    <name>White City Bri (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="32.876520697" lon="-81.516532386">
+    <ele>55.882</ele>
+    <name>WHITE HOUS (pj)</name>
+    <cmt>19-NOV-06 9:31:30AM</cmt>
+    <desc>19-NOV-06 9:31:30AM</desc>
+    <sym>Campground</sym>
+  </wpt>
+  <wpt lat="24.474333320" lon="-81.549999984">
+    <name>Wilkes Barre (pj)</name>
+    <cmt>Gulf of Mexico</cmt>
+    <desc>Gulf of Mexico</desc>
+    <sym>Shipwreck</sym>
+  </wpt>
+  <wpt lat="24.538199985" lon="-81.456116633">
+    <ele>25.120</ele>
+    <name>WLOOEHD2 (pj)</name>
+    <cmt>20-MAY-05 13:43</cmt>
+    <desc>20-MAY-05 13:43</desc>
+    <sym>Zoo</sym>
+  </wpt>
+  <wpt lat="24.540966600" lon="-81.441666652">
+    <ele>25.120</ele>
+    <name>WLOOELWRLF (pj)</name>
+    <cmt>20-MAY-05 13:38</cmt>
+    <desc>20-MAY-05 13:38</desc>
+    <sym>Diver Down Flag 1</sym>
+  </wpt>
+  <wpt lat="24.639970874" lon="-81.315035792">
+    <ele>0.607</ele>
+    <name>WRECK (pj)</name>
+    <cmt>08-AUG-06 11:23</cmt>
+    <desc>08-AUG-06 11:23</desc>
+    <sym>Anchor</sym>
+  </wpt>
+  <wpt lat="24.697144423" lon="-80.876503419">
+    <ele>0.847</ele>
+    <name>YELLOW TAI (pj)</name>
+    <cmt>13-MAY-04 10:21</cmt>
+    <desc>13-MAY-04 10:21</desc>
+    <sym>Fishing Area</sym>
+  </wpt>
+</gpx>
