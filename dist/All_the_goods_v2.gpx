@@ -135228,10 +135228,10 @@ Description: Lighthouse/NOAA</desc>
     <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 50.750' N &lt;br&gt;Long 082º 50.800' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.84583, -82.84666</cmt>
     <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 50.750' N &lt;br&gt;Long 082º 50.800' W&lt;br&gt;&lt;br&gt;Decimal Degrees: &lt;br&gt;27.84583, -82.84666</desc>
   </wpt>
-  <wpt lat="27.840333300" lon="-82.844166700">
+<wpt lat="25.947042" lon="-82.874836">
     <ele>0.000</ele>
-    <name>South Inshore Reef 13</name>
-    <cmt>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 50.420' N &lt;br&gt;Long 082º 50.650' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.84033, -82.84416</cmt>
-    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 27º 50.420' N &lt;br&gt;Long 082º 50.650' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;27.84033, -82.84416</desc>
-  </wpt>
+    <name>Pentrel (maybe)</name>
+    <cmt>Rest in peace brother</cmt>
+    <desc>Coordinates: &lt;br&gt;&lt;br&gt;Decimal Minutes: &lt;br&gt;Lat 25º 56.823' N &lt;br&gt;Long 082º 52.490' W&lt;br&gt;&lt;br&gt;Decimal Degrees:&lt;br&gt;25.94704, -82.87484</desc>
+</wpt>
 </gpx>
